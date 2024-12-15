@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Welcome to the World of Emojis!!! </title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+
+    <style>
+        body {
+            background-color: 	#00FA9A
+        }
+    </style>
+
+</head>
+<body>
+    <div class="container mt-4">
+        <style>
+            /* CSS to style the heading */
+            .welcome-text {
+                color: #FF1493;           /* Orange-Red color */
+                font-size: 36px;          /* Increase font size */
+                text-align: center;       /* Center the text */
+                font-weight: bold;        /* Make the text bold */
+                margin-top: 20px;         /* Add some spacing at the top */
+            }
+        </style>
+        <<h1 class="welcome-text">Welcome to the World of Emojis!!!</h1>
+
+        <!-- Search Form -->
+        <form method="POST" class="mb-4">
+            <div class="input-group">
+                <input type="text" name="query" class="form-control" placeholder="Search for emojis..." value="{{ query }}">
+                <div class="input-group-append">
+                    <button class="btn btn-primary" type="submit">Search</button>
+                </div>
+            </div>
+        </form>
+
+        <!-- Display Results -->
+        {% if query %}
+            <h2>Results for "{{ query }}":</h2>
+        {% endif %}
+
+        {% if emojis %}
+            <div class="row">
+                {% for emoji in emojis %}
+                    <div class="col-md-2 mb-3 text-center">
+                        <a href="{{ url_for('emoji', name=emoji['slug']) }}" class="text-decoration-none">
+                            <div class="card p-2">
+                                <h2>{{ emoji['character'] }}</h2>
+                                <p>{{ emoji['description'] }}</p>
+                            </div>
+                        </a>
+                    </div>
+                {% endfor %}
+            </div>
+
+            <!-- Pagination -->
+            <div class="d-flex justify-content-center">
+                {{ pagination.links }}
+            </div>
+        {% else %}
+            <p>No emojis found. Try a different search term.</p>
+        {% endif %}
+    </div>
+</body>
+</html>

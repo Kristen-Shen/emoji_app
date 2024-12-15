@@ -1,0 +1,1792 @@
+name,category,group,htmlCode,unicode
+grinning face,smileys and people,face positive,['&#128512;'],['U+1F600']
+grinning face with smiling eyes,smileys and people,face positive,['&#128513;'],['U+1F601']
+face with tears of joy,smileys and people,face positive,['&#128514;'],['U+1F602']
+rolling on the floor laughing,smileys and people,face positive,['&#129315;'],['U+1F923']
+smiling face with open mouth,smileys and people,face positive,['&#128515;'],['U+1F603']
+smiling face with open mouth and smiling eyes ≊ smiling face with open mouth ,smileys and people,face positive,['&#128516;'],['U+1F604']
+smiling face with open mouth and cold sweat ≊ smiling face with open mouth ,smileys and people,face positive,['&#128517;'],['U+1F605']
+smiling face with open mouth and tightly-closed eyes ≊ smiling face with open mouth ,smileys and people,face positive,['&#128518;'],['U+1F606']
+winking face,smileys and people,face positive,['&#128521;'],['U+1F609']
+smiling face with smiling eyes,smileys and people,face positive,['&#128522;'],['U+1F60A']
+face savouring delicious food,smileys and people,face positive,['&#128523;'],['U+1F60B']
+smiling face with sunglasses,smileys and people,face positive,['&#128526;'],['U+1F60E']
+smiling face with heart-shaped eyes ≊ smiling face with heart-eyes,smileys and people,face positive,['&#128525;'],['U+1F60D']
+face throwing a kiss,smileys and people,face positive,['&#128536;'],['U+1F618']
+kissing face,smileys and people,face positive,['&#128535;'],['U+1F617']
+kissing face with smiling eyes,smileys and people,face positive,['&#128537;'],['U+1F619']
+kissing face with closed eyes,smileys and people,face positive,['&#128538;'],['U+1F61A']
+white smiling face ≊ smiling face,smileys and people,face positive,['&#9786;'],['U+263A']
+slightly smiling face,smileys and people,face positive,['&#128578;'],['U+1F642']
+hugging face,smileys and people,face positive,['&#129303;'],['U+1F917']
+thinking face,smileys and people,face neutral,['&#129300;'],['U+1F914']
+neutral face,smileys and people,face neutral,['&#128528;'],['U+1F610']
+expressionless face,smileys and people,face neutral,['&#128529;'],['U+1F611']
+face without mouth,smileys and people,face neutral,['&#128566;'],['U+1F636']
+face with rolling eyes,smileys and people,face neutral,['&#128580;'],['U+1F644']
+smirking face,smileys and people,face neutral,['&#128527;'],['U+1F60F']
+persevering face,smileys and people,face neutral,['&#128547;'],['U+1F623']
+disappointed but relieved face,smileys and people,face neutral,['&#128549;'],['U+1F625']
+face with open mouth,smileys and people,face neutral,['&#128558;'],['U+1F62E']
+zipper-mouth face,smileys and people,face neutral,['&#129296;'],['U+1F910']
+hushed face,smileys and people,face neutral,['&#128559;'],['U+1F62F']
+sleepy face,smileys and people,face neutral,['&#128554;'],['U+1F62A']
+tired face,smileys and people,face neutral,['&#128555;'],['U+1F62B']
+sleeping face,smileys and people,face neutral,['&#128564;'],['U+1F634']
+relieved face,smileys and people,face neutral,['&#128524;'],['U+1F60C']
+nerd face,smileys and people,face neutral,['&#129299;'],['U+1F913']
+face with stuck-out tongue,smileys and people,face neutral,['&#128539;'],['U+1F61B']
+face with stuck-out tongue and winking eye ≊ face with stuck-out tongue ,smileys and people,face neutral,['&#128540;'],['U+1F61C']
+face with stuck-out tongue and tightly-closed eyes ≊ face with stuck-out tongue ,smileys and people,face neutral,['&#128541;'],['U+1F61D']
+drooling face,smileys and people,face neutral,['&#129316;'],['U+1F924']
+unamused face,smileys and people,face neutral,['&#128530;'],['U+1F612']
+face with cold sweat,smileys and people,face neutral,['&#128531;'],['U+1F613']
+pensive face,smileys and people,face neutral,['&#128532;'],['U+1F614']
+confused face,smileys and people,face neutral,['&#128533;'],['U+1F615']
+upside-down face,smileys and people,face neutral,['&#128579;'],['U+1F643']
+money-mouth face,smileys and people,face neutral,['&#129297;'],['U+1F911']
+astonished face,smileys and people,face neutral,['&#128562;'],['U+1F632']
+white frowning face ≊ frowning face,smileys and people,face negative,['&#9785;'],['U+2639']
+slightly frowning face,smileys and people,face negative,['&#128577;'],['U+1F641']
+confounded face,smileys and people,face negative,['&#128534;'],['U+1F616']
+disappointed face,smileys and people,face negative,['&#128542;'],['U+1F61E']
+worried face,smileys and people,face negative,['&#128543;'],['U+1F61F']
+face with look of triumph ≊ face with steam from nose,smileys and people,face negative,['&#128548;'],['U+1F624']
+crying face,smileys and people,face negative,['&#128546;'],['U+1F622']
+loudly crying face,smileys and people,face negative,['&#128557;'],['U+1F62D']
+frowning face with open mouth,smileys and people,face negative,['&#128550;'],['U+1F626']
+anguished face,smileys and people,face negative,['&#128551;'],['U+1F627']
+fearful face,smileys and people,face negative,['&#128552;'],['U+1F628']
+weary face,smileys and people,face negative,['&#128553;'],['U+1F629']
+grimacing face,smileys and people,face negative,['&#128556;'],['U+1F62C']
+face with open mouth and cold sweat ≊ face with open mouth ,smileys and people,face negative,['&#128560;'],['U+1F630']
+face screaming in fear,smileys and people,face negative,['&#128561;'],['U+1F631']
+flushed face,smileys and people,face negative,['&#128563;'],['U+1F633']
+dizzy face,smileys and people,face negative,['&#128565;'],['U+1F635']
+pouting face,smileys and people,face negative,['&#128545;'],['U+1F621']
+angry face,smileys and people,face negative,['&#128544;'],['U+1F620']
+smiling face with halo,smileys and people,face role,['&#128519;'],['U+1F607']
+face with cowboy hat ≊ cowboy hat face,smileys and people,face role,['&#129312;'],['U+1F920']
+clown face,smileys and people,face role,['&#129313;'],['U+1F921']
+lying face,smileys and people,face role,['&#129317;'],['U+1F925']
+face with medical mask,smileys and people,face sick,['&#128567;'],['U+1F637']
+face with thermometer,smileys and people,face sick,['&#129298;'],['U+1F912']
+face with head-bandage,smileys and people,face sick,['&#129301;'],['U+1F915']
+nauseated face,smileys and people,face sick,['&#129314;'],['U+1F922']
+sneezing face,smileys and people,face sick,['&#129319;'],['U+1F927']
+smiling face with horns,smileys and people,creature face,['&#128520;'],['U+1F608']
+imp,smileys and people,creature face,['&#128127;'],['U+1F47F']
+japanese ogre ≊ ogre,smileys and people,creature face,['&#128121;'],['U+1F479']
+japanese goblin ≊ goblin,smileys and people,creature face,['&#128122;'],['U+1F47A']
+skull,smileys and people,creature face,['&#128128;'],['U+1F480']
+skull and crossbones,smileys and people,creature face,['&#9760;'],['U+2620']
+ghost,smileys and people,creature face,['&#128123;'],['U+1F47B']
+extraterrestrial alien ≊ alien,smileys and people,creature face,['&#128125;'],['U+1F47D']
+alien monster,smileys and people,creature face,['&#128126;'],['U+1F47E']
+robot face,smileys and people,creature face,['&#129302;'],['U+1F916']
+pile of poo,smileys and people,creature face,['&#128169;'],['U+1F4A9']
+smiling cat face with open mouth,smileys and people,cat face,['&#128570;'],['U+1F63A']
+grinning cat face with smiling eyes,smileys and people,cat face,['&#128568;'],['U+1F638']
+cat face with tears of joy,smileys and people,cat face,['&#128569;'],['U+1F639']
+smiling cat face with heart-shaped eyes ≊ smiling cat face with heart-eyes,smileys and people,cat face,['&#128571;'],['U+1F63B']
+cat face with wry smile,smileys and people,cat face,['&#128572;'],['U+1F63C']
+kissing cat face with closed eyes,smileys and people,cat face,['&#128573;'],['U+1F63D']
+weary cat face,smileys and people,cat face,['&#128576;'],['U+1F640']
+crying cat face,smileys and people,cat face,['&#128575;'],['U+1F63F']
+pouting cat face,smileys and people,cat face,['&#128574;'],['U+1F63E']
+see-no-evil monkey ≊ see-no-evil,smileys and people,monkey face,['&#128584;'],['U+1F648']
+hear-no-evil monkey ≊ hear-no-evil,smileys and people,monkey face,['&#128585;'],['U+1F649']
+speak-no-evil monkey ≊ speak-no-evil,smileys and people,monkey face,['&#128586;'],['U+1F64A']
+boy,smileys and people,person,['&#128102;'],['U+1F466']
+"boy, type-1-2",smileys and people,person,"['&#128102;', '&#127995;']","['U+1F466', 'U+1F3FB']"
+"boy, type-3",smileys and people,person,"['&#128102;', '&#127996;']","['U+1F466', 'U+1F3FC']"
+"boy, type-4",smileys and people,person,"['&#128102;', '&#127997;']","['U+1F466', 'U+1F3FD']"
+"boy, type-5",smileys and people,person,"['&#128102;', '&#127998;']","['U+1F466', 'U+1F3FE']"
+"boy, type-6",smileys and people,person,"['&#128102;', '&#127999;']","['U+1F466', 'U+1F3FF']"
+girl,smileys and people,person,['&#128103;'],['U+1F467']
+"girl, type-1-2",smileys and people,person,"['&#128103;', '&#127995;']","['U+1F467', 'U+1F3FB']"
+"girl, type-3",smileys and people,person,"['&#128103;', '&#127996;']","['U+1F467', 'U+1F3FC']"
+"girl, type-4",smileys and people,person,"['&#128103;', '&#127997;']","['U+1F467', 'U+1F3FD']"
+"girl, type-5",smileys and people,person,"['&#128103;', '&#127998;']","['U+1F467', 'U+1F3FE']"
+"girl, type-6",smileys and people,person,"['&#128103;', '&#127999;']","['U+1F467', 'U+1F3FF']"
+man,smileys and people,person,['&#128104;'],['U+1F468']
+"man, type-1-2",smileys and people,person,"['&#128104;', '&#127995;']","['U+1F468', 'U+1F3FB']"
+"man, type-3",smileys and people,person,"['&#128104;', '&#127996;']","['U+1F468', 'U+1F3FC']"
+"man, type-4",smileys and people,person,"['&#128104;', '&#127997;']","['U+1F468', 'U+1F3FD']"
+"man, type-5",smileys and people,person,"['&#128104;', '&#127998;']","['U+1F468', 'U+1F3FE']"
+"man, type-6",smileys and people,person,"['&#128104;', '&#127999;']","['U+1F468', 'U+1F3FF']"
+woman,smileys and people,person,['&#128105;'],['U+1F469']
+"woman, type-1-2",smileys and people,person,"['&#128105;', '&#127995;']","['U+1F469', 'U+1F3FB']"
+"woman, type-3",smileys and people,person,"['&#128105;', '&#127996;']","['U+1F469', 'U+1F3FC']"
+"woman, type-4",smileys and people,person,"['&#128105;', '&#127997;']","['U+1F469', 'U+1F3FD']"
+"woman, type-5",smileys and people,person,"['&#128105;', '&#127998;']","['U+1F469', 'U+1F3FE']"
+"woman, type-6",smileys and people,person,"['&#128105;', '&#127999;']","['U+1F469', 'U+1F3FF']"
+older man ≊ old man,smileys and people,person,['&#128116;'],['U+1F474']
+"old man, type-1-2",smileys and people,person,"['&#128116;', '&#127995;']","['U+1F474', 'U+1F3FB']"
+"old man, type-3",smileys and people,person,"['&#128116;', '&#127996;']","['U+1F474', 'U+1F3FC']"
+"old man, type-4",smileys and people,person,"['&#128116;', '&#127997;']","['U+1F474', 'U+1F3FD']"
+"old man, type-5",smileys and people,person,"['&#128116;', '&#127998;']","['U+1F474', 'U+1F3FE']"
+"old man, type-6",smileys and people,person,"['&#128116;', '&#127999;']","['U+1F474', 'U+1F3FF']"
+older woman ≊ old woman,smileys and people,person,['&#128117;'],['U+1F475']
+"old woman, type-1-2",smileys and people,person,"['&#128117;', '&#127995;']","['U+1F475', 'U+1F3FB']"
+"old woman, type-3",smileys and people,person,"['&#128117;', '&#127996;']","['U+1F475', 'U+1F3FC']"
+"old woman, type-4",smileys and people,person,"['&#128117;', '&#127997;']","['U+1F475', 'U+1F3FD']"
+"old woman, type-5",smileys and people,person,"['&#128117;', '&#127998;']","['U+1F475', 'U+1F3FE']"
+"old woman, type-6",smileys and people,person,"['&#128117;', '&#127999;']","['U+1F475', 'U+1F3FF']"
+baby,smileys and people,person,['&#128118;'],['U+1F476']
+"baby, type-1-2",smileys and people,person,"['&#128118;', '&#127995;']","['U+1F476', 'U+1F3FB']"
+"baby, type-3",smileys and people,person,"['&#128118;', '&#127996;']","['U+1F476', 'U+1F3FC']"
+"baby, type-4",smileys and people,person,"['&#128118;', '&#127997;']","['U+1F476', 'U+1F3FD']"
+"baby, type-5",smileys and people,person,"['&#128118;', '&#127998;']","['U+1F476', 'U+1F3FE']"
+"baby, type-6",smileys and people,person,"['&#128118;', '&#127999;']","['U+1F476', 'U+1F3FF']"
+baby angel,smileys and people,person,['&#128124;'],['U+1F47C']
+"baby angel, type-1-2",smileys and people,person,"['&#128124;', '&#127995;']","['U+1F47C', 'U+1F3FB']"
+"baby angel, type-3",smileys and people,person,"['&#128124;', '&#127996;']","['U+1F47C', 'U+1F3FC']"
+"baby angel, type-4",smileys and people,person,"['&#128124;', '&#127997;']","['U+1F47C', 'U+1F3FD']"
+"baby angel, type-5",smileys and people,person,"['&#128124;', '&#127998;']","['U+1F47C', 'U+1F3FE']"
+"baby angel, type-6",smileys and people,person,"['&#128124;', '&#127999;']","['U+1F47C', 'U+1F3FF']"
+police officer,smileys and people,person role,['&#128110;'],['U+1F46E']
+"police officer, type-1-2",smileys and people,person role,"['&#128110;', '&#127995;']","['U+1F46E', 'U+1F3FB']"
+"police officer, type-3",smileys and people,person role,"['&#128110;', '&#127996;']","['U+1F46E', 'U+1F3FC']"
+"police officer, type-4",smileys and people,person role,"['&#128110;', '&#127997;']","['U+1F46E', 'U+1F3FD']"
+"police officer, type-5",smileys and people,person role,"['&#128110;', '&#127998;']","['U+1F46E', 'U+1F3FE']"
+"police officer, type-6",smileys and people,person role,"['&#128110;', '&#127999;']","['U+1F46E', 'U+1F3FF']"
+sleuth or spy ≊ detective,smileys and people,person role,['&#128373;'],['U+1F575']
+"detective, type-1-2",smileys and people,person role,"['&#128373;', '&#127995;']","['U+1F575', 'U+1F3FB']"
+"detective, type-3",smileys and people,person role,"['&#128373;', '&#127996;']","['U+1F575', 'U+1F3FC']"
+"detective, type-4",smileys and people,person role,"['&#128373;', '&#127997;']","['U+1F575', 'U+1F3FD']"
+"detective, type-5",smileys and people,person role,"['&#128373;', '&#127998;']","['U+1F575', 'U+1F3FE']"
+"detective, type-6",smileys and people,person role,"['&#128373;', '&#127999;']","['U+1F575', 'U+1F3FF']"
+guardsman,smileys and people,person role,['&#128130;'],['U+1F482']
+"guardsman, type-1-2",smileys and people,person role,"['&#128130;', '&#127995;']","['U+1F482', 'U+1F3FB']"
+"guardsman, type-3",smileys and people,person role,"['&#128130;', '&#127996;']","['U+1F482', 'U+1F3FC']"
+"guardsman, type-4",smileys and people,person role,"['&#128130;', '&#127997;']","['U+1F482', 'U+1F3FD']"
+"guardsman, type-5",smileys and people,person role,"['&#128130;', '&#127998;']","['U+1F482', 'U+1F3FE']"
+"guardsman, type-6",smileys and people,person role,"['&#128130;', '&#127999;']","['U+1F482', 'U+1F3FF']"
+construction worker,smileys and people,person role,['&#128119;'],['U+1F477']
+"construction worker, type-1-2",smileys and people,person role,"['&#128119;', '&#127995;']","['U+1F477', 'U+1F3FB']"
+"construction worker, type-3",smileys and people,person role,"['&#128119;', '&#127996;']","['U+1F477', 'U+1F3FC']"
+"construction worker, type-4",smileys and people,person role,"['&#128119;', '&#127997;']","['U+1F477', 'U+1F3FD']"
+"construction worker, type-5",smileys and people,person role,"['&#128119;', '&#127998;']","['U+1F477', 'U+1F3FE']"
+"construction worker, type-6",smileys and people,person role,"['&#128119;', '&#127999;']","['U+1F477', 'U+1F3FF']"
+man with turban ≊ person with turban,smileys and people,person role,['&#128115;'],['U+1F473']
+"person with turban, type-1-2",smileys and people,person role,"['&#128115;', '&#127995;']","['U+1F473', 'U+1F3FB']"
+"person with turban, type-3",smileys and people,person role,"['&#128115;', '&#127996;']","['U+1F473', 'U+1F3FC']"
+"person with turban, type-4",smileys and people,person role,"['&#128115;', '&#127997;']","['U+1F473', 'U+1F3FD']"
+"person with turban, type-5",smileys and people,person role,"['&#128115;', '&#127998;']","['U+1F473', 'U+1F3FE']"
+"person with turban, type-6",smileys and people,person role,"['&#128115;', '&#127999;']","['U+1F473', 'U+1F3FF']"
+person with blond hair ≊ blond person,smileys and people,person role,['&#128113;'],['U+1F471']
+"blond person, type-1-2",smileys and people,person role,"['&#128113;', '&#127995;']","['U+1F471', 'U+1F3FB']"
+"blond person, type-3",smileys and people,person role,"['&#128113;', '&#127996;']","['U+1F471', 'U+1F3FC']"
+"blond person, type-4",smileys and people,person role,"['&#128113;', '&#127997;']","['U+1F471', 'U+1F3FD']"
+"blond person, type-5",smileys and people,person role,"['&#128113;', '&#127998;']","['U+1F471', 'U+1F3FE']"
+"blond person, type-6",smileys and people,person role,"['&#128113;', '&#127999;']","['U+1F471', 'U+1F3FF']"
+father christmas ≊ santa claus,smileys and people,person role,['&#127877;'],['U+1F385']
+"santa claus, type-1-2",smileys and people,person role,"['&#127877;', '&#127995;']","['U+1F385', 'U+1F3FB']"
+"santa claus, type-3",smileys and people,person role,"['&#127877;', '&#127996;']","['U+1F385', 'U+1F3FC']"
+"santa claus, type-4",smileys and people,person role,"['&#127877;', '&#127997;']","['U+1F385', 'U+1F3FD']"
+"santa claus, type-5",smileys and people,person role,"['&#127877;', '&#127998;']","['U+1F385', 'U+1F3FE']"
+"santa claus, type-6",smileys and people,person role,"['&#127877;', '&#127999;']","['U+1F385', 'U+1F3FF']"
+mother christmas,smileys and people,person role,['&#129334;'],['U+1F936']
+"mother christmas, type-1-2",smileys and people,person role,"['&#129334;', '&#127995;']","['U+1F936', 'U+1F3FB']"
+"mother christmas, type-3",smileys and people,person role,"['&#129334;', '&#127996;']","['U+1F936', 'U+1F3FC']"
+"mother christmas, type-4",smileys and people,person role,"['&#129334;', '&#127997;']","['U+1F936', 'U+1F3FD']"
+"mother christmas, type-5",smileys and people,person role,"['&#129334;', '&#127998;']","['U+1F936', 'U+1F3FE']"
+"mother christmas, type-6",smileys and people,person role,"['&#129334;', '&#127999;']","['U+1F936', 'U+1F3FF']"
+princess,smileys and people,person role,['&#128120;'],['U+1F478']
+"princess, type-1-2",smileys and people,person role,"['&#128120;', '&#127995;']","['U+1F478', 'U+1F3FB']"
+"princess, type-3",smileys and people,person role,"['&#128120;', '&#127996;']","['U+1F478', 'U+1F3FC']"
+"princess, type-4",smileys and people,person role,"['&#128120;', '&#127997;']","['U+1F478', 'U+1F3FD']"
+"princess, type-5",smileys and people,person role,"['&#128120;', '&#127998;']","['U+1F478', 'U+1F3FE']"
+"princess, type-6",smileys and people,person role,"['&#128120;', '&#127999;']","['U+1F478', 'U+1F3FF']"
+prince,smileys and people,person role,['&#129332;'],['U+1F934']
+"prince, type-1-2",smileys and people,person role,"['&#129332;', '&#127995;']","['U+1F934', 'U+1F3FB']"
+"prince, type-3",smileys and people,person role,"['&#129332;', '&#127996;']","['U+1F934', 'U+1F3FC']"
+"prince, type-4",smileys and people,person role,"['&#129332;', '&#127997;']","['U+1F934', 'U+1F3FD']"
+"prince, type-5",smileys and people,person role,"['&#129332;', '&#127998;']","['U+1F934', 'U+1F3FE']"
+"prince, type-6",smileys and people,person role,"['&#129332;', '&#127999;']","['U+1F934', 'U+1F3FF']"
+bride with veil,smileys and people,person role,['&#128112;'],['U+1F470']
+"bride with veil, type-1-2",smileys and people,person role,"['&#128112;', '&#127995;']","['U+1F470', 'U+1F3FB']"
+"bride with veil, type-3",smileys and people,person role,"['&#128112;', '&#127996;']","['U+1F470', 'U+1F3FC']"
+"bride with veil, type-4",smileys and people,person role,"['&#128112;', '&#127997;']","['U+1F470', 'U+1F3FD']"
+"bride with veil, type-5",smileys and people,person role,"['&#128112;', '&#127998;']","['U+1F470', 'U+1F3FE']"
+"bride with veil, type-6",smileys and people,person role,"['&#128112;', '&#127999;']","['U+1F470', 'U+1F3FF']"
+man in tuxedo,smileys and people,person role,['&#129333;'],['U+1F935']
+"man in tuxedo, type-1-2",smileys and people,person role,"['&#129333;', '&#127995;']","['U+1F935', 'U+1F3FB']"
+"man in tuxedo, type-3",smileys and people,person role,"['&#129333;', '&#127996;']","['U+1F935', 'U+1F3FC']"
+"man in tuxedo, type-4",smileys and people,person role,"['&#129333;', '&#127997;']","['U+1F935', 'U+1F3FD']"
+"man in tuxedo, type-5",smileys and people,person role,"['&#129333;', '&#127998;']","['U+1F935', 'U+1F3FE']"
+"man in tuxedo, type-6",smileys and people,person role,"['&#129333;', '&#127999;']","['U+1F935', 'U+1F3FF']"
+pregnant woman,smileys and people,person role,['&#129328;'],['U+1F930']
+"pregnant woman, type-1-2",smileys and people,person role,"['&#129328;', '&#127995;']","['U+1F930', 'U+1F3FB']"
+"pregnant woman, type-3",smileys and people,person role,"['&#129328;', '&#127996;']","['U+1F930', 'U+1F3FC']"
+"pregnant woman, type-4",smileys and people,person role,"['&#129328;', '&#127997;']","['U+1F930', 'U+1F3FD']"
+"pregnant woman, type-5",smileys and people,person role,"['&#129328;', '&#127998;']","['U+1F930', 'U+1F3FE']"
+"pregnant woman, type-6",smileys and people,person role,"['&#129328;', '&#127999;']","['U+1F930', 'U+1F3FF']"
+man with gua pi mao ≊ man with chinese cap,smileys and people,person role,['&#128114;'],['U+1F472']
+"man with chinese cap, type-1-2",smileys and people,person role,"['&#128114;', '&#127995;']","['U+1F472', 'U+1F3FB']"
+"man with chinese cap, type-3",smileys and people,person role,"['&#128114;', '&#127996;']","['U+1F472', 'U+1F3FC']"
+"man with chinese cap, type-4",smileys and people,person role,"['&#128114;', '&#127997;']","['U+1F472', 'U+1F3FD']"
+"man with chinese cap, type-5",smileys and people,person role,"['&#128114;', '&#127998;']","['U+1F472', 'U+1F3FE']"
+"man with chinese cap, type-6",smileys and people,person role,"['&#128114;', '&#127999;']","['U+1F472', 'U+1F3FF']"
+person frowning,smileys and people,person gesture,['&#128589;'],['U+1F64D']
+"person frowning, type-1-2",smileys and people,person gesture,"['&#128589;', '&#127995;']","['U+1F64D', 'U+1F3FB']"
+"person frowning, type-3",smileys and people,person gesture,"['&#128589;', '&#127996;']","['U+1F64D', 'U+1F3FC']"
+"person frowning, type-4",smileys and people,person gesture,"['&#128589;', '&#127997;']","['U+1F64D', 'U+1F3FD']"
+"person frowning, type-5",smileys and people,person gesture,"['&#128589;', '&#127998;']","['U+1F64D', 'U+1F3FE']"
+"person frowning, type-6",smileys and people,person gesture,"['&#128589;', '&#127999;']","['U+1F64D', 'U+1F3FF']"
+person with pouting face ≊ person pouting,smileys and people,person gesture,['&#128590;'],['U+1F64E']
+"person pouting, type-1-2",smileys and people,person gesture,"['&#128590;', '&#127995;']","['U+1F64E', 'U+1F3FB']"
+"person pouting, type-3",smileys and people,person gesture,"['&#128590;', '&#127996;']","['U+1F64E', 'U+1F3FC']"
+"person pouting, type-4",smileys and people,person gesture,"['&#128590;', '&#127997;']","['U+1F64E', 'U+1F3FD']"
+"person pouting, type-5",smileys and people,person gesture,"['&#128590;', '&#127998;']","['U+1F64E', 'U+1F3FE']"
+"person pouting, type-6",smileys and people,person gesture,"['&#128590;', '&#127999;']","['U+1F64E', 'U+1F3FF']"
+face with no good gesture ≊ person gesturing not ok,smileys and people,person gesture,['&#128581;'],['U+1F645']
+"person gesturing not ok, type-1-2",smileys and people,person gesture,"['&#128581;', '&#127995;']","['U+1F645', 'U+1F3FB']"
+"person gesturing not ok, type-3",smileys and people,person gesture,"['&#128581;', '&#127996;']","['U+1F645', 'U+1F3FC']"
+"person gesturing not ok, type-4",smileys and people,person gesture,"['&#128581;', '&#127997;']","['U+1F645', 'U+1F3FD']"
+"person gesturing not ok, type-5",smileys and people,person gesture,"['&#128581;', '&#127998;']","['U+1F645', 'U+1F3FE']"
+"person gesturing not ok, type-6",smileys and people,person gesture,"['&#128581;', '&#127999;']","['U+1F645', 'U+1F3FF']"
+face with ok gesture ≊ person gesturing ok,smileys and people,person gesture,['&#128582;'],['U+1F646']
+"person gesturing ok, type-1-2",smileys and people,person gesture,"['&#128582;', '&#127995;']","['U+1F646', 'U+1F3FB']"
+"person gesturing ok, type-3",smileys and people,person gesture,"['&#128582;', '&#127996;']","['U+1F646', 'U+1F3FC']"
+"person gesturing ok, type-4",smileys and people,person gesture,"['&#128582;', '&#127997;']","['U+1F646', 'U+1F3FD']"
+"person gesturing ok, type-5",smileys and people,person gesture,"['&#128582;', '&#127998;']","['U+1F646', 'U+1F3FE']"
+"person gesturing ok, type-6",smileys and people,person gesture,"['&#128582;', '&#127999;']","['U+1F646', 'U+1F3FF']"
+information desk person ≊ person tipping hand,smileys and people,person gesture,['&#128129;'],['U+1F481']
+"person tipping hand, type-1-2",smileys and people,person gesture,"['&#128129;', '&#127995;']","['U+1F481', 'U+1F3FB']"
+"person tipping hand, type-3",smileys and people,person gesture,"['&#128129;', '&#127996;']","['U+1F481', 'U+1F3FC']"
+"person tipping hand, type-4",smileys and people,person gesture,"['&#128129;', '&#127997;']","['U+1F481', 'U+1F3FD']"
+"person tipping hand, type-5",smileys and people,person gesture,"['&#128129;', '&#127998;']","['U+1F481', 'U+1F3FE']"
+"person tipping hand, type-6",smileys and people,person gesture,"['&#128129;', '&#127999;']","['U+1F481', 'U+1F3FF']"
+happy person raising one hand ≊ person raising hand,smileys and people,person gesture,['&#128587;'],['U+1F64B']
+"person raising hand, type-1-2",smileys and people,person gesture,"['&#128587;', '&#127995;']","['U+1F64B', 'U+1F3FB']"
+"person raising hand, type-3",smileys and people,person gesture,"['&#128587;', '&#127996;']","['U+1F64B', 'U+1F3FC']"
+"person raising hand, type-4",smileys and people,person gesture,"['&#128587;', '&#127997;']","['U+1F64B', 'U+1F3FD']"
+"person raising hand, type-5",smileys and people,person gesture,"['&#128587;', '&#127998;']","['U+1F64B', 'U+1F3FE']"
+"person raising hand, type-6",smileys and people,person gesture,"['&#128587;', '&#127999;']","['U+1F64B', 'U+1F3FF']"
+person bowing deeply ≊ person bowing,smileys and people,person gesture,['&#128583;'],['U+1F647']
+"person bowing, type-1-2",smileys and people,person gesture,"['&#128583;', '&#127995;']","['U+1F647', 'U+1F3FB']"
+"person bowing, type-3",smileys and people,person gesture,"['&#128583;', '&#127996;']","['U+1F647', 'U+1F3FC']"
+"person bowing, type-4",smileys and people,person gesture,"['&#128583;', '&#127997;']","['U+1F647', 'U+1F3FD']"
+"person bowing, type-5",smileys and people,person gesture,"['&#128583;', '&#127998;']","['U+1F647', 'U+1F3FE']"
+"person bowing, type-6",smileys and people,person gesture,"['&#128583;', '&#127999;']","['U+1F647', 'U+1F3FF']"
+face palm ≊ person facepalming,smileys and people,person gesture,['&#129318;'],['U+1F926']
+"person facepalming, type-1-2",smileys and people,person gesture,"['&#129318;', '&#127995;']","['U+1F926', 'U+1F3FB']"
+"person facepalming, type-3",smileys and people,person gesture,"['&#129318;', '&#127996;']","['U+1F926', 'U+1F3FC']"
+"person facepalming, type-4",smileys and people,person gesture,"['&#129318;', '&#127997;']","['U+1F926', 'U+1F3FD']"
+"person facepalming, type-5",smileys and people,person gesture,"['&#129318;', '&#127998;']","['U+1F926', 'U+1F3FE']"
+"person facepalming, type-6",smileys and people,person gesture,"['&#129318;', '&#127999;']","['U+1F926', 'U+1F3FF']"
+shrug ≊ person shrugging,smileys and people,person gesture,['&#129335;'],['U+1F937']
+"person shrugging, type-1-2",smileys and people,person gesture,"['&#129335;', '&#127995;']","['U+1F937', 'U+1F3FB']"
+"person shrugging, type-3",smileys and people,person gesture,"['&#129335;', '&#127996;']","['U+1F937', 'U+1F3FC']"
+"person shrugging, type-4",smileys and people,person gesture,"['&#129335;', '&#127997;']","['U+1F937', 'U+1F3FD']"
+"person shrugging, type-5",smileys and people,person gesture,"['&#129335;', '&#127998;']","['U+1F937', 'U+1F3FE']"
+"person shrugging, type-6",smileys and people,person gesture,"['&#129335;', '&#127999;']","['U+1F937', 'U+1F3FF']"
+face massage ≊ person getting massage,smileys and people,person activity,['&#128134;'],['U+1F486']
+"person getting massage, type-1-2",smileys and people,person activity,"['&#128134;', '&#127995;']","['U+1F486', 'U+1F3FB']"
+"person getting massage, type-3",smileys and people,person activity,"['&#128134;', '&#127996;']","['U+1F486', 'U+1F3FC']"
+"person getting massage, type-4",smileys and people,person activity,"['&#128134;', '&#127997;']","['U+1F486', 'U+1F3FD']"
+"person getting massage, type-5",smileys and people,person activity,"['&#128134;', '&#127998;']","['U+1F486', 'U+1F3FE']"
+"person getting massage, type-6",smileys and people,person activity,"['&#128134;', '&#127999;']","['U+1F486', 'U+1F3FF']"
+haircut ≊ person getting haircut,smileys and people,person activity,['&#128135;'],['U+1F487']
+"person getting haircut, type-1-2",smileys and people,person activity,"['&#128135;', '&#127995;']","['U+1F487', 'U+1F3FB']"
+"person getting haircut, type-3",smileys and people,person activity,"['&#128135;', '&#127996;']","['U+1F487', 'U+1F3FC']"
+"person getting haircut, type-4",smileys and people,person activity,"['&#128135;', '&#127997;']","['U+1F487', 'U+1F3FD']"
+"person getting haircut, type-5",smileys and people,person activity,"['&#128135;', '&#127998;']","['U+1F487', 'U+1F3FE']"
+"person getting haircut, type-6",smileys and people,person activity,"['&#128135;', '&#127999;']","['U+1F487', 'U+1F3FF']"
+pedestrian ≊ person walking,smileys and people,person activity,['&#128694;'],['U+1F6B6']
+"person walking, type-1-2",smileys and people,person activity,"['&#128694;', '&#127995;']","['U+1F6B6', 'U+1F3FB']"
+"person walking, type-3",smileys and people,person activity,"['&#128694;', '&#127996;']","['U+1F6B6', 'U+1F3FC']"
+"person walking, type-4",smileys and people,person activity,"['&#128694;', '&#127997;']","['U+1F6B6', 'U+1F3FD']"
+"person walking, type-5",smileys and people,person activity,"['&#128694;', '&#127998;']","['U+1F6B6', 'U+1F3FE']"
+"person walking, type-6",smileys and people,person activity,"['&#128694;', '&#127999;']","['U+1F6B6', 'U+1F3FF']"
+runner ≊ person running,smileys and people,person activity,['&#127939;'],['U+1F3C3']
+"person running, type-1-2",smileys and people,person activity,"['&#127939;', '&#127995;']","['U+1F3C3', 'U+1F3FB']"
+"person running, type-3",smileys and people,person activity,"['&#127939;', '&#127996;']","['U+1F3C3', 'U+1F3FC']"
+"person running, type-4",smileys and people,person activity,"['&#127939;', '&#127997;']","['U+1F3C3', 'U+1F3FD']"
+"person running, type-5",smileys and people,person activity,"['&#127939;', '&#127998;']","['U+1F3C3', 'U+1F3FE']"
+"person running, type-6",smileys and people,person activity,"['&#127939;', '&#127999;']","['U+1F3C3', 'U+1F3FF']"
+dancer ≊ woman dancing,smileys and people,person activity,['&#128131;'],['U+1F483']
+"woman dancing, type-1-2",smileys and people,person activity,"['&#128131;', '&#127995;']","['U+1F483', 'U+1F3FB']"
+"woman dancing, type-3",smileys and people,person activity,"['&#128131;', '&#127996;']","['U+1F483', 'U+1F3FC']"
+"woman dancing, type-4",smileys and people,person activity,"['&#128131;', '&#127997;']","['U+1F483', 'U+1F3FD']"
+"woman dancing, type-5",smileys and people,person activity,"['&#128131;', '&#127998;']","['U+1F483', 'U+1F3FE']"
+"woman dancing, type-6",smileys and people,person activity,"['&#128131;', '&#127999;']","['U+1F483', 'U+1F3FF']"
+man dancing,smileys and people,person activity,['&#128378;'],['U+1F57A']
+"man dancing, type-1-2",smileys and people,person activity,"['&#128378;', '&#127995;']","['U+1F57A', 'U+1F3FB']"
+"man dancing, type-3",smileys and people,person activity,"['&#128378;', '&#127996;']","['U+1F57A', 'U+1F3FC']"
+"man dancing, type-4",smileys and people,person activity,"['&#128378;', '&#127997;']","['U+1F57A', 'U+1F3FD']"
+"man dancing, type-5",smileys and people,person activity,"['&#128378;', '&#127998;']","['U+1F57A', 'U+1F3FE']"
+"man dancing, type-6",smileys and people,person activity,"['&#128378;', '&#127999;']","['U+1F57A', 'U+1F3FF']"
+woman with bunny ears ≊ people partying,smileys and people,person activity,['&#128111;'],['U+1F46F']
+man in business suit levitating,smileys and people,person activity,['&#128372;'],['U+1F574']
+speaking head in silhouette ≊ speaking head,smileys and people,person activity,['&#128483;'],['U+1F5E3']
+bust in silhouette,smileys and people,person activity,['&#128100;'],['U+1F464']
+busts in silhouette,smileys and people,person activity,['&#128101;'],['U+1F465']
+man and woman holding hands,smileys and people,family,['&#128107;'],['U+1F46B']
+two men holding hands,smileys and people,family,['&#128108;'],['U+1F46C']
+two women holding hands,smileys and people,family,['&#128109;'],['U+1F46D']
+kiss,smileys and people,family,['&#128143;'],['U+1F48F']
+"kiss, woman, man",smileys and people,family,"['&#128105;', '&#8205;', '&#10084;', '&#65039;', '&#8205;', '&#128139;', '&#8205;', '&#128104;']","['U+1F469', 'U+200D', 'U+2764', 'U+FE0F', 'U+200D', 'U+1F48B', 'U+200D', 'U+1F468']"
+"kiss, man, man",smileys and people,family,"['&#128104;', '&#8205;', '&#10084;', '&#65039;', '&#8205;', '&#128139;', '&#8205;', '&#128104;']","['U+1F468', 'U+200D', 'U+2764', 'U+FE0F', 'U+200D', 'U+1F48B', 'U+200D', 'U+1F468']"
+"kiss, woman, woman",smileys and people,family,"['&#128105;', '&#8205;', '&#10084;', '&#65039;', '&#8205;', '&#128139;', '&#8205;', '&#128105;']","['U+1F469', 'U+200D', 'U+2764', 'U+FE0F', 'U+200D', 'U+1F48B', 'U+200D', 'U+1F469']"
+couple with heart,smileys and people,family,['&#128145;'],['U+1F491']
+"couple with heart, woman, man",smileys and people,family,"['&#128105;', '&#8205;', '&#10084;', '&#65039;', '&#8205;', '&#128104;']","['U+1F469', 'U+200D', 'U+2764', 'U+FE0F', 'U+200D', 'U+1F468']"
+"couple with heart, man, man",smileys and people,family,"['&#128104;', '&#8205;', '&#10084;', '&#65039;', '&#8205;', '&#128104;']","['U+1F468', 'U+200D', 'U+2764', 'U+FE0F', 'U+200D', 'U+1F468']"
+"couple with heart, woman, woman",smileys and people,family,"['&#128105;', '&#8205;', '&#10084;', '&#65039;', '&#8205;', '&#128105;']","['U+1F469', 'U+200D', 'U+2764', 'U+FE0F', 'U+200D', 'U+1F469']"
+family,smileys and people,family,['&#128106;'],['U+1F46A']
+"family, man, woman, boy",smileys and people,family,"['&#128104;', '&#8205;', '&#128105;', '&#8205;', '&#128102;']","['U+1F468', 'U+200D', 'U+1F469', 'U+200D', 'U+1F466']"
+"family, man, woman, girl",smileys and people,family,"['&#128104;', '&#8205;', '&#128105;', '&#8205;', '&#128103;']","['U+1F468', 'U+200D', 'U+1F469', 'U+200D', 'U+1F467']"
+"family, man, woman, girl, boy",smileys and people,family,"['&#128104;', '&#8205;', '&#128105;', '&#8205;', '&#128103;', '&#8205;', '&#128102;']","['U+1F468', 'U+200D', 'U+1F469', 'U+200D', 'U+1F467', 'U+200D', 'U+1F466']"
+"family, man, woman, boy, boy",smileys and people,family,"['&#128104;', '&#8205;', '&#128105;', '&#8205;', '&#128102;', '&#8205;', '&#128102;']","['U+1F468', 'U+200D', 'U+1F469', 'U+200D', 'U+1F466', 'U+200D', 'U+1F466']"
+"family, man, woman, girl, girl",smileys and people,family,"['&#128104;', '&#8205;', '&#128105;', '&#8205;', '&#128103;', '&#8205;', '&#128103;']","['U+1F468', 'U+200D', 'U+1F469', 'U+200D', 'U+1F467', 'U+200D', 'U+1F467']"
+"family, man, man, boy",smileys and people,family,"['&#128104;', '&#8205;', '&#128104;', '&#8205;', '&#128102;']","['U+1F468', 'U+200D', 'U+1F468', 'U+200D', 'U+1F466']"
+"family, man, man, girl",smileys and people,family,"['&#128104;', '&#8205;', '&#128104;', '&#8205;', '&#128103;']","['U+1F468', 'U+200D', 'U+1F468', 'U+200D', 'U+1F467']"
+"family, man, man, girl, boy",smileys and people,family,"['&#128104;', '&#8205;', '&#128104;', '&#8205;', '&#128103;', '&#8205;', '&#128102;']","['U+1F468', 'U+200D', 'U+1F468', 'U+200D', 'U+1F467', 'U+200D', 'U+1F466']"
+"family, man, man, boy, boy",smileys and people,family,"['&#128104;', '&#8205;', '&#128104;', '&#8205;', '&#128102;', '&#8205;', '&#128102;']","['U+1F468', 'U+200D', 'U+1F468', 'U+200D', 'U+1F466', 'U+200D', 'U+1F466']"
+"family, man, man, girl, girl",smileys and people,family,"['&#128104;', '&#8205;', '&#128104;', '&#8205;', '&#128103;', '&#8205;', '&#128103;']","['U+1F468', 'U+200D', 'U+1F468', 'U+200D', 'U+1F467', 'U+200D', 'U+1F467']"
+"family, woman, woman, boy",smileys and people,family,"['&#128105;', '&#8205;', '&#128105;', '&#8205;', '&#128102;']","['U+1F469', 'U+200D', 'U+1F469', 'U+200D', 'U+1F466']"
+"family, woman, woman, girl",smileys and people,family,"['&#128105;', '&#8205;', '&#128105;', '&#8205;', '&#128103;']","['U+1F469', 'U+200D', 'U+1F469', 'U+200D', 'U+1F467']"
+"family, woman, woman, girl, boy",smileys and people,family,"['&#128105;', '&#8205;', '&#128105;', '&#8205;', '&#128103;', '&#8205;', '&#128102;']","['U+1F469', 'U+200D', 'U+1F469', 'U+200D', 'U+1F467', 'U+200D', 'U+1F466']"
+"family, woman, woman, boy, boy",smileys and people,family,"['&#128105;', '&#8205;', '&#128105;', '&#8205;', '&#128102;', '&#8205;', '&#128102;']","['U+1F469', 'U+200D', 'U+1F469', 'U+200D', 'U+1F466', 'U+200D', 'U+1F466']"
+"family, woman, woman, girl, girl",smileys and people,family,"['&#128105;', '&#8205;', '&#128105;', '&#8205;', '&#128103;', '&#8205;', '&#128103;']","['U+1F469', 'U+200D', 'U+1F469', 'U+200D', 'U+1F467', 'U+200D', 'U+1F467']"
+emoji modifier fitzpatrick type-1-2 ≊ type-1-2,smileys and people,skin tone,['&#127995;'],['U+1F3FB']
+emoji modifier fitzpatrick type-3 ≊ type-3,smileys and people,skin tone,['&#127996;'],['U+1F3FC']
+emoji modifier fitzpatrick type-4 ≊ type-4,smileys and people,skin tone,['&#127997;'],['U+1F3FD']
+emoji modifier fitzpatrick type-5 ≊ type-5,smileys and people,skin tone,['&#127998;'],['U+1F3FE']
+emoji modifier fitzpatrick type-6 ≊ type-6,smileys and people,skin tone,['&#127999;'],['U+1F3FF']
+flexed biceps,smileys and people,body,['&#128170;'],['U+1F4AA']
+"flexed biceps, type-1-2",smileys and people,body,"['&#128170;', '&#127995;']","['U+1F4AA', 'U+1F3FB']"
+"flexed biceps, type-3",smileys and people,body,"['&#128170;', '&#127996;']","['U+1F4AA', 'U+1F3FC']"
+"flexed biceps, type-4",smileys and people,body,"['&#128170;', '&#127997;']","['U+1F4AA', 'U+1F3FD']"
+"flexed biceps, type-5",smileys and people,body,"['&#128170;', '&#127998;']","['U+1F4AA', 'U+1F3FE']"
+"flexed biceps, type-6",smileys and people,body,"['&#128170;', '&#127999;']","['U+1F4AA', 'U+1F3FF']"
+selfie,smileys and people,body,['&#129331;'],['U+1F933']
+"selfie, type-1-2",smileys and people,body,"['&#129331;', '&#127995;']","['U+1F933', 'U+1F3FB']"
+"selfie, type-3",smileys and people,body,"['&#129331;', '&#127996;']","['U+1F933', 'U+1F3FC']"
+"selfie, type-4",smileys and people,body,"['&#129331;', '&#127997;']","['U+1F933', 'U+1F3FD']"
+"selfie, type-5",smileys and people,body,"['&#129331;', '&#127998;']","['U+1F933', 'U+1F3FE']"
+"selfie, type-6",smileys and people,body,"['&#129331;', '&#127999;']","['U+1F933', 'U+1F3FF']"
+white left pointing backhand index ≊ backhand index pointing left,smileys and people,body,['&#128072;'],['U+1F448']
+"backhand index pointing left, type-1-2",smileys and people,body,"['&#128072;', '&#127995;']","['U+1F448', 'U+1F3FB']"
+"backhand index pointing left, type-3",smileys and people,body,"['&#128072;', '&#127996;']","['U+1F448', 'U+1F3FC']"
+"backhand index pointing left, type-4",smileys and people,body,"['&#128072;', '&#127997;']","['U+1F448', 'U+1F3FD']"
+"backhand index pointing left, type-5",smileys and people,body,"['&#128072;', '&#127998;']","['U+1F448', 'U+1F3FE']"
+"backhand index pointing left, type-6",smileys and people,body,"['&#128072;', '&#127999;']","['U+1F448', 'U+1F3FF']"
+white right pointing backhand index ≊ backhand index pointing right,smileys and people,body,['&#128073;'],['U+1F449']
+"backhand index pointing right, type-1-2",smileys and people,body,"['&#128073;', '&#127995;']","['U+1F449', 'U+1F3FB']"
+"backhand index pointing right, type-3",smileys and people,body,"['&#128073;', '&#127996;']","['U+1F449', 'U+1F3FC']"
+"backhand index pointing right, type-4",smileys and people,body,"['&#128073;', '&#127997;']","['U+1F449', 'U+1F3FD']"
+"backhand index pointing right, type-5",smileys and people,body,"['&#128073;', '&#127998;']","['U+1F449', 'U+1F3FE']"
+"backhand index pointing right, type-6",smileys and people,body,"['&#128073;', '&#127999;']","['U+1F449', 'U+1F3FF']"
+white up pointing index ≊ index pointing up,smileys and people,body,['&#9757;'],['U+261D']
+"index pointing up, type-1-2",smileys and people,body,"['&#9757;', '&#127995;']","['U+261D', 'U+1F3FB']"
+"index pointing up, type-3",smileys and people,body,"['&#9757;', '&#127996;']","['U+261D', 'U+1F3FC']"
+"index pointing up, type-4",smileys and people,body,"['&#9757;', '&#127997;']","['U+261D', 'U+1F3FD']"
+"index pointing up, type-5",smileys and people,body,"['&#9757;', '&#127998;']","['U+261D', 'U+1F3FE']"
+"index pointing up, type-6",smileys and people,body,"['&#9757;', '&#127999;']","['U+261D', 'U+1F3FF']"
+white up pointing backhand index ≊ backhand index pointing up,smileys and people,body,['&#128070;'],['U+1F446']
+"backhand index pointing up, type-1-2",smileys and people,body,"['&#128070;', '&#127995;']","['U+1F446', 'U+1F3FB']"
+"backhand index pointing up, type-3",smileys and people,body,"['&#128070;', '&#127996;']","['U+1F446', 'U+1F3FC']"
+"backhand index pointing up, type-4",smileys and people,body,"['&#128070;', '&#127997;']","['U+1F446', 'U+1F3FD']"
+"backhand index pointing up, type-5",smileys and people,body,"['&#128070;', '&#127998;']","['U+1F446', 'U+1F3FE']"
+"backhand index pointing up, type-6",smileys and people,body,"['&#128070;', '&#127999;']","['U+1F446', 'U+1F3FF']"
+reversed hand with middle finger extended ≊ middle finger,smileys and people,body,['&#128405;'],['U+1F595']
+"middle finger, type-1-2",smileys and people,body,"['&#128405;', '&#127995;']","['U+1F595', 'U+1F3FB']"
+"middle finger, type-3",smileys and people,body,"['&#128405;', '&#127996;']","['U+1F595', 'U+1F3FC']"
+"middle finger, type-4",smileys and people,body,"['&#128405;', '&#127997;']","['U+1F595', 'U+1F3FD']"
+"middle finger, type-5",smileys and people,body,"['&#128405;', '&#127998;']","['U+1F595', 'U+1F3FE']"
+"middle finger, type-6",smileys and people,body,"['&#128405;', '&#127999;']","['U+1F595', 'U+1F3FF']"
+white down pointing backhand index ≊ backhand index pointing down,smileys and people,body,['&#128071;'],['U+1F447']
+"backhand index pointing down, type-1-2",smileys and people,body,"['&#128071;', '&#127995;']","['U+1F447', 'U+1F3FB']"
+"backhand index pointing down, type-3",smileys and people,body,"['&#128071;', '&#127996;']","['U+1F447', 'U+1F3FC']"
+"backhand index pointing down, type-4",smileys and people,body,"['&#128071;', '&#127997;']","['U+1F447', 'U+1F3FD']"
+"backhand index pointing down, type-5",smileys and people,body,"['&#128071;', '&#127998;']","['U+1F447', 'U+1F3FE']"
+"backhand index pointing down, type-6",smileys and people,body,"['&#128071;', '&#127999;']","['U+1F447', 'U+1F3FF']"
+victory hand,smileys and people,body,['&#9996;'],['U+270C']
+"victory hand, type-1-2",smileys and people,body,"['&#9996;', '&#127995;']","['U+270C', 'U+1F3FB']"
+"victory hand, type-3",smileys and people,body,"['&#9996;', '&#127996;']","['U+270C', 'U+1F3FC']"
+"victory hand, type-4",smileys and people,body,"['&#9996;', '&#127997;']","['U+270C', 'U+1F3FD']"
+"victory hand, type-5",smileys and people,body,"['&#9996;', '&#127998;']","['U+270C', 'U+1F3FE']"
+"victory hand, type-6",smileys and people,body,"['&#9996;', '&#127999;']","['U+270C', 'U+1F3FF']"
+hand with index and middle fingers crossed ≊ crossed fingers,smileys and people,body,['&#129310;'],['U+1F91E']
+"crossed fingers, type-1-2",smileys and people,body,"['&#129310;', '&#127995;']","['U+1F91E', 'U+1F3FB']"
+"crossed fingers, type-3",smileys and people,body,"['&#129310;', '&#127996;']","['U+1F91E', 'U+1F3FC']"
+"crossed fingers, type-4",smileys and people,body,"['&#129310;', '&#127997;']","['U+1F91E', 'U+1F3FD']"
+"crossed fingers, type-5",smileys and people,body,"['&#129310;', '&#127998;']","['U+1F91E', 'U+1F3FE']"
+"crossed fingers, type-6",smileys and people,body,"['&#129310;', '&#127999;']","['U+1F91E', 'U+1F3FF']"
+raised hand with part between middle and ring fingers ≊ vulcan salute,smileys and people,body,['&#128406;'],['U+1F596']
+"vulcan salute, type-1-2",smileys and people,body,"['&#128406;', '&#127995;']","['U+1F596', 'U+1F3FB']"
+"vulcan salute, type-3",smileys and people,body,"['&#128406;', '&#127996;']","['U+1F596', 'U+1F3FC']"
+"vulcan salute, type-4",smileys and people,body,"['&#128406;', '&#127997;']","['U+1F596', 'U+1F3FD']"
+"vulcan salute, type-5",smileys and people,body,"['&#128406;', '&#127998;']","['U+1F596', 'U+1F3FE']"
+"vulcan salute, type-6",smileys and people,body,"['&#128406;', '&#127999;']","['U+1F596', 'U+1F3FF']"
+sign of the horns,smileys and people,body,['&#129304;'],['U+1F918']
+"sign of the horns, type-1-2",smileys and people,body,"['&#129304;', '&#127995;']","['U+1F918', 'U+1F3FB']"
+"sign of the horns, type-3",smileys and people,body,"['&#129304;', '&#127996;']","['U+1F918', 'U+1F3FC']"
+"sign of the horns, type-4",smileys and people,body,"['&#129304;', '&#127997;']","['U+1F918', 'U+1F3FD']"
+"sign of the horns, type-5",smileys and people,body,"['&#129304;', '&#127998;']","['U+1F918', 'U+1F3FE']"
+"sign of the horns, type-6",smileys and people,body,"['&#129304;', '&#127999;']","['U+1F918', 'U+1F3FF']"
+call me hand,smileys and people,body,['&#129305;'],['U+1F919']
+"call me hand, type-1-2",smileys and people,body,"['&#129305;', '&#127995;']","['U+1F919', 'U+1F3FB']"
+"call me hand, type-3",smileys and people,body,"['&#129305;', '&#127996;']","['U+1F919', 'U+1F3FC']"
+"call me hand, type-4",smileys and people,body,"['&#129305;', '&#127997;']","['U+1F919', 'U+1F3FD']"
+"call me hand, type-5",smileys and people,body,"['&#129305;', '&#127998;']","['U+1F919', 'U+1F3FE']"
+"call me hand, type-6",smileys and people,body,"['&#129305;', '&#127999;']","['U+1F919', 'U+1F3FF']"
+raised hand with fingers splayed,smileys and people,body,['&#128400;'],['U+1F590']
+"raised hand with fingers splayed, type-1-2",smileys and people,body,"['&#128400;', '&#127995;']","['U+1F590', 'U+1F3FB']"
+"raised hand with fingers splayed, type-3",smileys and people,body,"['&#128400;', '&#127996;']","['U+1F590', 'U+1F3FC']"
+"raised hand with fingers splayed, type-4",smileys and people,body,"['&#128400;', '&#127997;']","['U+1F590', 'U+1F3FD']"
+"raised hand with fingers splayed, type-5",smileys and people,body,"['&#128400;', '&#127998;']","['U+1F590', 'U+1F3FE']"
+"raised hand with fingers splayed, type-6",smileys and people,body,"['&#128400;', '&#127999;']","['U+1F590', 'U+1F3FF']"
+raised hand,smileys and people,body,['&#9995;'],['U+270B']
+"raised hand, type-1-2",smileys and people,body,"['&#9995;', '&#127995;']","['U+270B', 'U+1F3FB']"
+"raised hand, type-3",smileys and people,body,"['&#9995;', '&#127996;']","['U+270B', 'U+1F3FC']"
+"raised hand, type-4",smileys and people,body,"['&#9995;', '&#127997;']","['U+270B', 'U+1F3FD']"
+"raised hand, type-5",smileys and people,body,"['&#9995;', '&#127998;']","['U+270B', 'U+1F3FE']"
+"raised hand, type-6",smileys and people,body,"['&#9995;', '&#127999;']","['U+270B', 'U+1F3FF']"
+ok hand sign ≊ ok hand,smileys and people,body,['&#128076;'],['U+1F44C']
+"ok hand, type-1-2",smileys and people,body,"['&#128076;', '&#127995;']","['U+1F44C', 'U+1F3FB']"
+"ok hand, type-3",smileys and people,body,"['&#128076;', '&#127996;']","['U+1F44C', 'U+1F3FC']"
+"ok hand, type-4",smileys and people,body,"['&#128076;', '&#127997;']","['U+1F44C', 'U+1F3FD']"
+"ok hand, type-5",smileys and people,body,"['&#128076;', '&#127998;']","['U+1F44C', 'U+1F3FE']"
+"ok hand, type-6",smileys and people,body,"['&#128076;', '&#127999;']","['U+1F44C', 'U+1F3FF']"
+thumbs up sign ≊ thumbs up,smileys and people,body,['&#128077;'],['U+1F44D']
+"thumbs up, type-1-2",smileys and people,body,"['&#128077;', '&#127995;']","['U+1F44D', 'U+1F3FB']"
+"thumbs up, type-3",smileys and people,body,"['&#128077;', '&#127996;']","['U+1F44D', 'U+1F3FC']"
+"thumbs up, type-4",smileys and people,body,"['&#128077;', '&#127997;']","['U+1F44D', 'U+1F3FD']"
+"thumbs up, type-5",smileys and people,body,"['&#128077;', '&#127998;']","['U+1F44D', 'U+1F3FE']"
+"thumbs up, type-6",smileys and people,body,"['&#128077;', '&#127999;']","['U+1F44D', 'U+1F3FF']"
+thumbs down sign ≊ thumbs down,smileys and people,body,['&#128078;'],['U+1F44E']
+"thumbs down, type-1-2",smileys and people,body,"['&#128078;', '&#127995;']","['U+1F44E', 'U+1F3FB']"
+"thumbs down, type-3",smileys and people,body,"['&#128078;', '&#127996;']","['U+1F44E', 'U+1F3FC']"
+"thumbs down, type-4",smileys and people,body,"['&#128078;', '&#127997;']","['U+1F44E', 'U+1F3FD']"
+"thumbs down, type-5",smileys and people,body,"['&#128078;', '&#127998;']","['U+1F44E', 'U+1F3FE']"
+"thumbs down, type-6",smileys and people,body,"['&#128078;', '&#127999;']","['U+1F44E', 'U+1F3FF']"
+raised fist,smileys and people,body,['&#9994;'],['U+270A']
+"raised fist, type-1-2",smileys and people,body,"['&#9994;', '&#127995;']","['U+270A', 'U+1F3FB']"
+"raised fist, type-3",smileys and people,body,"['&#9994;', '&#127996;']","['U+270A', 'U+1F3FC']"
+"raised fist, type-4",smileys and people,body,"['&#9994;', '&#127997;']","['U+270A', 'U+1F3FD']"
+"raised fist, type-5",smileys and people,body,"['&#9994;', '&#127998;']","['U+270A', 'U+1F3FE']"
+"raised fist, type-6",smileys and people,body,"['&#9994;', '&#127999;']","['U+270A', 'U+1F3FF']"
+fisted hand sign ≊ oncoming fist,smileys and people,body,['&#128074;'],['U+1F44A']
+"oncoming fist, type-1-2",smileys and people,body,"['&#128074;', '&#127995;']","['U+1F44A', 'U+1F3FB']"
+"oncoming fist, type-3",smileys and people,body,"['&#128074;', '&#127996;']","['U+1F44A', 'U+1F3FC']"
+"oncoming fist, type-4",smileys and people,body,"['&#128074;', '&#127997;']","['U+1F44A', 'U+1F3FD']"
+"oncoming fist, type-5",smileys and people,body,"['&#128074;', '&#127998;']","['U+1F44A', 'U+1F3FE']"
+"oncoming fist, type-6",smileys and people,body,"['&#128074;', '&#127999;']","['U+1F44A', 'U+1F3FF']"
+left-facing fist,smileys and people,body,['&#129307;'],['U+1F91B']
+"left-facing fist, type-1-2",smileys and people,body,"['&#129307;', '&#127995;']","['U+1F91B', 'U+1F3FB']"
+"left-facing fist, type-3",smileys and people,body,"['&#129307;', '&#127996;']","['U+1F91B', 'U+1F3FC']"
+"left-facing fist, type-4",smileys and people,body,"['&#129307;', '&#127997;']","['U+1F91B', 'U+1F3FD']"
+"left-facing fist, type-5",smileys and people,body,"['&#129307;', '&#127998;']","['U+1F91B', 'U+1F3FE']"
+"left-facing fist, type-6",smileys and people,body,"['&#129307;', '&#127999;']","['U+1F91B', 'U+1F3FF']"
+right-facing fist,smileys and people,body,['&#129308;'],['U+1F91C']
+"right-facing fist, type-1-2",smileys and people,body,"['&#129308;', '&#127995;']","['U+1F91C', 'U+1F3FB']"
+"right-facing fist, type-3",smileys and people,body,"['&#129308;', '&#127996;']","['U+1F91C', 'U+1F3FC']"
+"right-facing fist, type-4",smileys and people,body,"['&#129308;', '&#127997;']","['U+1F91C', 'U+1F3FD']"
+"right-facing fist, type-5",smileys and people,body,"['&#129308;', '&#127998;']","['U+1F91C', 'U+1F3FE']"
+"right-facing fist, type-6",smileys and people,body,"['&#129308;', '&#127999;']","['U+1F91C', 'U+1F3FF']"
+raised back of hand,smileys and people,body,['&#129306;'],['U+1F91A']
+"raised back of hand, type-1-2",smileys and people,body,"['&#129306;', '&#127995;']","['U+1F91A', 'U+1F3FB']"
+"raised back of hand, type-3",smileys and people,body,"['&#129306;', '&#127996;']","['U+1F91A', 'U+1F3FC']"
+"raised back of hand, type-4",smileys and people,body,"['&#129306;', '&#127997;']","['U+1F91A', 'U+1F3FD']"
+"raised back of hand, type-5",smileys and people,body,"['&#129306;', '&#127998;']","['U+1F91A', 'U+1F3FE']"
+"raised back of hand, type-6",smileys and people,body,"['&#129306;', '&#127999;']","['U+1F91A', 'U+1F3FF']"
+waving hand sign ≊ waving hand,smileys and people,body,['&#128075;'],['U+1F44B']
+"waving hand, type-1-2",smileys and people,body,"['&#128075;', '&#127995;']","['U+1F44B', 'U+1F3FB']"
+"waving hand, type-3",smileys and people,body,"['&#128075;', '&#127996;']","['U+1F44B', 'U+1F3FC']"
+"waving hand, type-4",smileys and people,body,"['&#128075;', '&#127997;']","['U+1F44B', 'U+1F3FD']"
+"waving hand, type-5",smileys and people,body,"['&#128075;', '&#127998;']","['U+1F44B', 'U+1F3FE']"
+"waving hand, type-6",smileys and people,body,"['&#128075;', '&#127999;']","['U+1F44B', 'U+1F3FF']"
+clapping hands sign ≊ clapping hands,smileys and people,body,['&#128079;'],['U+1F44F']
+"clapping hands, type-1-2",smileys and people,body,"['&#128079;', '&#127995;']","['U+1F44F', 'U+1F3FB']"
+"clapping hands, type-3",smileys and people,body,"['&#128079;', '&#127996;']","['U+1F44F', 'U+1F3FC']"
+"clapping hands, type-4",smileys and people,body,"['&#128079;', '&#127997;']","['U+1F44F', 'U+1F3FD']"
+"clapping hands, type-5",smileys and people,body,"['&#128079;', '&#127998;']","['U+1F44F', 'U+1F3FE']"
+"clapping hands, type-6",smileys and people,body,"['&#128079;', '&#127999;']","['U+1F44F', 'U+1F3FF']"
+writing hand,smileys and people,body,['&#9997;'],['U+270D']
+"writing hand, type-1-2",smileys and people,body,"['&#9997;', '&#127995;']","['U+270D', 'U+1F3FB']"
+"writing hand, type-3",smileys and people,body,"['&#9997;', '&#127996;']","['U+270D', 'U+1F3FC']"
+"writing hand, type-4",smileys and people,body,"['&#9997;', '&#127997;']","['U+270D', 'U+1F3FD']"
+"writing hand, type-5",smileys and people,body,"['&#9997;', '&#127998;']","['U+270D', 'U+1F3FE']"
+"writing hand, type-6",smileys and people,body,"['&#9997;', '&#127999;']","['U+270D', 'U+1F3FF']"
+open hands sign ≊ open hands,smileys and people,body,['&#128080;'],['U+1F450']
+"open hands, type-1-2",smileys and people,body,"['&#128080;', '&#127995;']","['U+1F450', 'U+1F3FB']"
+"open hands, type-3",smileys and people,body,"['&#128080;', '&#127996;']","['U+1F450', 'U+1F3FC']"
+"open hands, type-4",smileys and people,body,"['&#128080;', '&#127997;']","['U+1F450', 'U+1F3FD']"
+"open hands, type-5",smileys and people,body,"['&#128080;', '&#127998;']","['U+1F450', 'U+1F3FE']"
+"open hands, type-6",smileys and people,body,"['&#128080;', '&#127999;']","['U+1F450', 'U+1F3FF']"
+person raising both hands in celebration ≊ person raising hands,smileys and people,body,['&#128588;'],['U+1F64C']
+"person raising hands, type-1-2",smileys and people,body,"['&#128588;', '&#127995;']","['U+1F64C', 'U+1F3FB']"
+"person raising hands, type-3",smileys and people,body,"['&#128588;', '&#127996;']","['U+1F64C', 'U+1F3FC']"
+"person raising hands, type-4",smileys and people,body,"['&#128588;', '&#127997;']","['U+1F64C', 'U+1F3FD']"
+"person raising hands, type-5",smileys and people,body,"['&#128588;', '&#127998;']","['U+1F64C', 'U+1F3FE']"
+"person raising hands, type-6",smileys and people,body,"['&#128588;', '&#127999;']","['U+1F64C', 'U+1F3FF']"
+person with folded hands ≊ folded hands,smileys and people,body,['&#128591;'],['U+1F64F']
+"folded hands, type-1-2",smileys and people,body,"['&#128591;', '&#127995;']","['U+1F64F', 'U+1F3FB']"
+"folded hands, type-3",smileys and people,body,"['&#128591;', '&#127996;']","['U+1F64F', 'U+1F3FC']"
+"folded hands, type-4",smileys and people,body,"['&#128591;', '&#127997;']","['U+1F64F', 'U+1F3FD']"
+"folded hands, type-5",smileys and people,body,"['&#128591;', '&#127998;']","['U+1F64F', 'U+1F3FE']"
+"folded hands, type-6",smileys and people,body,"['&#128591;', '&#127999;']","['U+1F64F', 'U+1F3FF']"
+handshake,smileys and people,body,['&#129309;'],['U+1F91D']
+"handshake, type-1-2",smileys and people,body,"['&#129309;', '&#127995;']","['U+1F91D', 'U+1F3FB']"
+"handshake, type-3",smileys and people,body,"['&#129309;', '&#127996;']","['U+1F91D', 'U+1F3FC']"
+"handshake, type-4",smileys and people,body,"['&#129309;', '&#127997;']","['U+1F91D', 'U+1F3FD']"
+"handshake, type-5",smileys and people,body,"['&#129309;', '&#127998;']","['U+1F91D', 'U+1F3FE']"
+"handshake, type-6",smileys and people,body,"['&#129309;', '&#127999;']","['U+1F91D', 'U+1F3FF']"
+nail polish,smileys and people,body,['&#128133;'],['U+1F485']
+"nail polish, type-1-2",smileys and people,body,"['&#128133;', '&#127995;']","['U+1F485', 'U+1F3FB']"
+"nail polish, type-3",smileys and people,body,"['&#128133;', '&#127996;']","['U+1F485', 'U+1F3FC']"
+"nail polish, type-4",smileys and people,body,"['&#128133;', '&#127997;']","['U+1F485', 'U+1F3FD']"
+"nail polish, type-5",smileys and people,body,"['&#128133;', '&#127998;']","['U+1F485', 'U+1F3FE']"
+"nail polish, type-6",smileys and people,body,"['&#128133;', '&#127999;']","['U+1F485', 'U+1F3FF']"
+ear,smileys and people,body,['&#128066;'],['U+1F442']
+"ear, type-1-2",smileys and people,body,"['&#128066;', '&#127995;']","['U+1F442', 'U+1F3FB']"
+"ear, type-3",smileys and people,body,"['&#128066;', '&#127996;']","['U+1F442', 'U+1F3FC']"
+"ear, type-4",smileys and people,body,"['&#128066;', '&#127997;']","['U+1F442', 'U+1F3FD']"
+"ear, type-5",smileys and people,body,"['&#128066;', '&#127998;']","['U+1F442', 'U+1F3FE']"
+"ear, type-6",smileys and people,body,"['&#128066;', '&#127999;']","['U+1F442', 'U+1F3FF']"
+nose,smileys and people,body,['&#128067;'],['U+1F443']
+"nose, type-1-2",smileys and people,body,"['&#128067;', '&#127995;']","['U+1F443', 'U+1F3FB']"
+"nose, type-3",smileys and people,body,"['&#128067;', '&#127996;']","['U+1F443', 'U+1F3FC']"
+"nose, type-4",smileys and people,body,"['&#128067;', '&#127997;']","['U+1F443', 'U+1F3FD']"
+"nose, type-5",smileys and people,body,"['&#128067;', '&#127998;']","['U+1F443', 'U+1F3FE']"
+"nose, type-6",smileys and people,body,"['&#128067;', '&#127999;']","['U+1F443', 'U+1F3FF']"
+footprints,smileys and people,body,['&#128099;'],['U+1F463']
+eyes,smileys and people,body,['&#128064;'],['U+1F440']
+eye,smileys and people,body,['&#128065;'],['U+1F441']
+"eye, left speech bubble",smileys and people,body,"['&#128065;', '&#8205;', '&#128488;']","['U+1F441', 'U+200D', 'U+1F5E8']"
+tongue,smileys and people,body,['&#128069;'],['U+1F445']
+mouth,smileys and people,body,['&#128068;'],['U+1F444']
+kiss mark,smileys and people,body,['&#128139;'],['U+1F48B']
+heart with arrow,smileys and people,emotion,['&#128152;'],['U+1F498']
+heavy black heart ≊ red heart,smileys and people,emotion,['&#10084;'],['U+2764']
+beating heart,smileys and people,emotion,['&#128147;'],['U+1F493']
+broken heart,smileys and people,emotion,['&#128148;'],['U+1F494']
+two hearts,smileys and people,emotion,['&#128149;'],['U+1F495']
+sparkling heart,smileys and people,emotion,['&#128150;'],['U+1F496']
+growing heart,smileys and people,emotion,['&#128151;'],['U+1F497']
+blue heart,smileys and people,emotion,['&#128153;'],['U+1F499']
+green heart,smileys and people,emotion,['&#128154;'],['U+1F49A']
+yellow heart,smileys and people,emotion,['&#128155;'],['U+1F49B']
+purple heart,smileys and people,emotion,['&#128156;'],['U+1F49C']
+black heart,smileys and people,emotion,['&#128420;'],['U+1F5A4']
+heart with ribbon,smileys and people,emotion,['&#128157;'],['U+1F49D']
+revolving hearts,smileys and people,emotion,['&#128158;'],['U+1F49E']
+heart decoration,smileys and people,emotion,['&#128159;'],['U+1F49F']
+heavy heart exclamation mark ornament ≊ heavy heart exclamation,smileys and people,emotion,['&#10083;'],['U+2763']
+love letter,smileys and people,emotion,['&#128140;'],['U+1F48C']
+sleeping symbol ≊ zzz,smileys and people,emotion,['&#128164;'],['U+1F4A4']
+anger symbol,smileys and people,emotion,['&#128162;'],['U+1F4A2']
+bomb,smileys and people,emotion,['&#128163;'],['U+1F4A3']
+collision symbol ≊ collision,smileys and people,emotion,['&#128165;'],['U+1F4A5']
+splashing sweat symbol ≊ sweat droplets,smileys and people,emotion,['&#128166;'],['U+1F4A6']
+dash symbol ≊ dashing,smileys and people,emotion,['&#128168;'],['U+1F4A8']
+dizzy symbol ≊ dizzy,smileys and people,emotion,['&#128171;'],['U+1F4AB']
+speech balloon,smileys and people,emotion,['&#128172;'],['U+1F4AC']
+left speech bubble,smileys and people,emotion,['&#128488;'],['U+1F5E8']
+right anger bubble,smileys and people,emotion,['&#128495;'],['U+1F5EF']
+thought balloon,smileys and people,emotion,['&#128173;'],['U+1F4AD']
+hole,smileys and people,emotion,['&#128371;'],['U+1F573']
+eyeglasses ≊ glasses,smileys and people,clothing,['&#128083;'],['U+1F453']
+dark sunglasses ≊ sunglasses,smileys and people,clothing,['&#128374;'],['U+1F576']
+necktie,smileys and people,clothing,['&#128084;'],['U+1F454']
+t-shirt,smileys and people,clothing,['&#128085;'],['U+1F455']
+jeans,smileys and people,clothing,['&#128086;'],['U+1F456']
+dress,smileys and people,clothing,['&#128087;'],['U+1F457']
+kimono,smileys and people,clothing,['&#128088;'],['U+1F458']
+bikini,smileys and people,clothing,['&#128089;'],['U+1F459']
+womans clothes ≊ womanâ€™s clothes,smileys and people,clothing,['&#128090;'],['U+1F45A']
+purse,smileys and people,clothing,['&#128091;'],['U+1F45B']
+handbag,smileys and people,clothing,['&#128092;'],['U+1F45C']
+pouch,smileys and people,clothing,['&#128093;'],['U+1F45D']
+shopping bags,smileys and people,clothing,['&#128717;'],['U+1F6CD']
+school satchel ≊ school backpack,smileys and people,clothing,['&#127890;'],['U+1F392']
+mans shoe ≊ manâ€™s shoe,smileys and people,clothing,['&#128094;'],['U+1F45E']
+athletic shoe ≊ running shoe,smileys and people,clothing,['&#128095;'],['U+1F45F']
+high-heeled shoe,smileys and people,clothing,['&#128096;'],['U+1F460']
+womans sandal ≊ womanâ€™s sandal,smileys and people,clothing,['&#128097;'],['U+1F461']
+womans boots ≊ womanâ€™s boot,smileys and people,clothing,['&#128098;'],['U+1F462']
+crown,smileys and people,clothing,['&#128081;'],['U+1F451']
+womans hat ≊ womanâ€™s hat,smileys and people,clothing,['&#128082;'],['U+1F452']
+top hat,smileys and people,clothing,['&#127913;'],['U+1F3A9']
+graduation cap,smileys and people,clothing,['&#127891;'],['U+1F393']
+helmet with white cross,smileys and people,clothing,['&#9937;'],['U+26D1']
+prayer beads,smileys and people,clothing,['&#128255;'],['U+1F4FF']
+lipstick,smileys and people,clothing,['&#128132;'],['U+1F484']
+ring,smileys and people,clothing,['&#128141;'],['U+1F48D']
+gem stone,smileys and people,clothing,['&#128142;'],['U+1F48E']
+monkey face,animals and nature,animal mammal,['&#128053;'],['U+1F435']
+monkey,animals and nature,animal mammal,['&#128018;'],['U+1F412']
+gorilla,animals and nature,animal mammal,['&#129421;'],['U+1F98D']
+dog face,animals and nature,animal mammal,['&#128054;'],['U+1F436']
+dog,animals and nature,animal mammal,['&#128021;'],['U+1F415']
+poodle,animals and nature,animal mammal,['&#128041;'],['U+1F429']
+wolf face,animals and nature,animal mammal,['&#128058;'],['U+1F43A']
+fox face,animals and nature,animal mammal,['&#129418;'],['U+1F98A']
+cat face,animals and nature,animal mammal,['&#128049;'],['U+1F431']
+cat,animals and nature,animal mammal,['&#128008;'],['U+1F408']
+lion face,animals and nature,animal mammal,['&#129409;'],['U+1F981']
+tiger face,animals and nature,animal mammal,['&#128047;'],['U+1F42F']
+tiger,animals and nature,animal mammal,['&#128005;'],['U+1F405']
+leopard,animals and nature,animal mammal,['&#128006;'],['U+1F406']
+horse face,animals and nature,animal mammal,['&#128052;'],['U+1F434']
+horse,animals and nature,animal mammal,['&#128014;'],['U+1F40E']
+deer,animals and nature,animal mammal,['&#129420;'],['U+1F98C']
+unicorn face,animals and nature,animal mammal,['&#129412;'],['U+1F984']
+cow face,animals and nature,animal mammal,['&#128046;'],['U+1F42E']
+ox,animals and nature,animal mammal,['&#128002;'],['U+1F402']
+water buffalo,animals and nature,animal mammal,['&#128003;'],['U+1F403']
+cow,animals and nature,animal mammal,['&#128004;'],['U+1F404']
+pig face,animals and nature,animal mammal,['&#128055;'],['U+1F437']
+pig,animals and nature,animal mammal,['&#128022;'],['U+1F416']
+boar,animals and nature,animal mammal,['&#128023;'],['U+1F417']
+pig nose,animals and nature,animal mammal,['&#128061;'],['U+1F43D']
+ram,animals and nature,animal mammal,['&#128015;'],['U+1F40F']
+sheep,animals and nature,animal mammal,['&#128017;'],['U+1F411']
+goat,animals and nature,animal mammal,['&#128016;'],['U+1F410']
+dromedary camel ≊ camel,animals and nature,animal mammal,['&#128042;'],['U+1F42A']
+bactrian camel ≊ two-hump camel,animals and nature,animal mammal,['&#128043;'],['U+1F42B']
+elephant,animals and nature,animal mammal,['&#128024;'],['U+1F418']
+rhinoceros,animals and nature,animal mammal,['&#129423;'],['U+1F98F']
+mouse face,animals and nature,animal mammal,['&#128045;'],['U+1F42D']
+mouse,animals and nature,animal mammal,['&#128001;'],['U+1F401']
+rat,animals and nature,animal mammal,['&#128000;'],['U+1F400']
+hamster face,animals and nature,animal mammal,['&#128057;'],['U+1F439']
+rabbit face,animals and nature,animal mammal,['&#128048;'],['U+1F430']
+rabbit,animals and nature,animal mammal,['&#128007;'],['U+1F407']
+chipmunk,animals and nature,animal mammal,['&#128063;'],['U+1F43F']
+bat,animals and nature,animal mammal,['&#129415;'],['U+1F987']
+bear face,animals and nature,animal mammal,['&#128059;'],['U+1F43B']
+koala,animals and nature,animal mammal,['&#128040;'],['U+1F428']
+panda face,animals and nature,animal mammal,['&#128060;'],['U+1F43C']
+paw prints,animals and nature,animal mammal,['&#128062;'],['U+1F43E']
+turkey,animals and nature,animal bird,['&#129411;'],['U+1F983']
+chicken,animals and nature,animal bird,['&#128020;'],['U+1F414']
+rooster,animals and nature,animal bird,['&#128019;'],['U+1F413']
+hatching chick,animals and nature,animal bird,['&#128035;'],['U+1F423']
+baby chick,animals and nature,animal bird,['&#128036;'],['U+1F424']
+front-facing baby chick,animals and nature,animal bird,['&#128037;'],['U+1F425']
+bird,animals and nature,animal bird,['&#128038;'],['U+1F426']
+penguin,animals and nature,animal bird,['&#128039;'],['U+1F427']
+dove of peace ≊ dove,animals and nature,animal bird,['&#128330;'],['U+1F54A']
+eagle,animals and nature,animal bird,['&#129413;'],['U+1F985']
+duck,animals and nature,animal bird,['&#129414;'],['U+1F986']
+owl,animals and nature,animal bird,['&#129417;'],['U+1F989']
+frog face,animals and nature,animal amphibian,['&#128056;'],['U+1F438']
+crocodile,animals and nature,animal reptile,['&#128010;'],['U+1F40A']
+turtle,animals and nature,animal reptile,['&#128034;'],['U+1F422']
+lizard,animals and nature,animal reptile,['&#129422;'],['U+1F98E']
+snake,animals and nature,animal reptile,['&#128013;'],['U+1F40D']
+dragon face,animals and nature,animal reptile,['&#128050;'],['U+1F432']
+dragon,animals and nature,animal reptile,['&#128009;'],['U+1F409']
+spouting whale,animals and nature,animal marine,['&#128051;'],['U+1F433']
+whale,animals and nature,animal marine,['&#128011;'],['U+1F40B']
+dolphin,animals and nature,animal marine,['&#128044;'],['U+1F42C']
+fish,animals and nature,animal marine,['&#128031;'],['U+1F41F']
+tropical fish,animals and nature,animal marine,['&#128032;'],['U+1F420']
+blowfish,animals and nature,animal marine,['&#128033;'],['U+1F421']
+shark,animals and nature,animal marine,['&#129416;'],['U+1F988']
+octopus,animals and nature,animal marine,['&#128025;'],['U+1F419']
+spiral shell,animals and nature,animal marine,['&#128026;'],['U+1F41A']
+crab,animals and nature,animal marine,['&#129408;'],['U+1F980']
+shrimp,animals and nature,animal marine,['&#129424;'],['U+1F990']
+squid,animals and nature,animal marine,['&#129425;'],['U+1F991']
+butterfly,animals and nature,animal bug,['&#129419;'],['U+1F98B']
+snail,animals and nature,animal bug,['&#128012;'],['U+1F40C']
+bug,animals and nature,animal bug,['&#128027;'],['U+1F41B']
+ant,animals and nature,animal bug,['&#128028;'],['U+1F41C']
+honeybee,animals and nature,animal bug,['&#128029;'],['U+1F41D']
+lady beetle,animals and nature,animal bug,['&#128030;'],['U+1F41E']
+spider,animals and nature,animal bug,['&#128375;'],['U+1F577']
+spider web,animals and nature,animal bug,['&#128376;'],['U+1F578']
+scorpion,animals and nature,animal bug,['&#129410;'],['U+1F982']
+bouquet,animals and nature,plant flower,['&#128144;'],['U+1F490']
+cherry blossom,animals and nature,plant flower,['&#127800;'],['U+1F338']
+white flower,animals and nature,plant flower,['&#128174;'],['U+1F4AE']
+rosette,animals and nature,plant flower,['&#127989;'],['U+1F3F5']
+rose,animals and nature,plant flower,['&#127801;'],['U+1F339']
+wilted flower,animals and nature,plant flower,['&#129344;'],['U+1F940']
+hibiscus,animals and nature,plant flower,['&#127802;'],['U+1F33A']
+sunflower,animals and nature,plant flower,['&#127803;'],['U+1F33B']
+blossom,animals and nature,plant flower,['&#127804;'],['U+1F33C']
+tulip,animals and nature,plant flower,['&#127799;'],['U+1F337']
+seedling,animals and nature,plant other,['&#127793;'],['U+1F331']
+evergreen tree ≊ evergreen,animals and nature,plant other,['&#127794;'],['U+1F332']
+deciduous tree,animals and nature,plant other,['&#127795;'],['U+1F333']
+palm tree,animals and nature,plant other,['&#127796;'],['U+1F334']
+cactus,animals and nature,plant other,['&#127797;'],['U+1F335']
+ear of rice ≊ sheaf of rice,animals and nature,plant other,['&#127806;'],['U+1F33E']
+herb,animals and nature,plant other,['&#127807;'],['U+1F33F']
+shamrock,animals and nature,plant other,['&#9752;'],['U+2618']
+four leaf clover,animals and nature,plant other,['&#127808;'],['U+1F340']
+maple leaf,animals and nature,plant other,['&#127809;'],['U+1F341']
+fallen leaf,animals and nature,plant other,['&#127810;'],['U+1F342']
+leaf fluttering in wind,animals and nature,plant other,['&#127811;'],['U+1F343']
+grapes,food and drink,food fruit,['&#127815;'],['U+1F347']
+melon,food and drink,food fruit,['&#127816;'],['U+1F348']
+watermelon,food and drink,food fruit,['&#127817;'],['U+1F349']
+tangerine,food and drink,food fruit,['&#127818;'],['U+1F34A']
+lemon,food and drink,food fruit,['&#127819;'],['U+1F34B']
+banana,food and drink,food fruit,['&#127820;'],['U+1F34C']
+pineapple,food and drink,food fruit,['&#127821;'],['U+1F34D']
+red apple,food and drink,food fruit,['&#127822;'],['U+1F34E']
+green apple,food and drink,food fruit,['&#127823;'],['U+1F34F']
+pear,food and drink,food fruit,['&#127824;'],['U+1F350']
+peach,food and drink,food fruit,['&#127825;'],['U+1F351']
+cherries,food and drink,food fruit,['&#127826;'],['U+1F352']
+strawberry,food and drink,food fruit,['&#127827;'],['U+1F353']
+kiwifruit,food and drink,food fruit,['&#129373;'],['U+1F95D']
+tomato,food and drink,food fruit,['&#127813;'],['U+1F345']
+avocado,food and drink,food vegetable,['&#129361;'],['U+1F951']
+aubergine ≊ eggplant,food and drink,food vegetable,['&#127814;'],['U+1F346']
+potato,food and drink,food vegetable,['&#129364;'],['U+1F954']
+carrot,food and drink,food vegetable,['&#129365;'],['U+1F955']
+ear of maize ≊ ear of corn,food and drink,food vegetable,['&#127805;'],['U+1F33D']
+hot pepper,food and drink,food vegetable,['&#127798;'],['U+1F336']
+cucumber,food and drink,food vegetable,['&#129362;'],['U+1F952']
+mushroom,food and drink,food vegetable,['&#127812;'],['U+1F344']
+peanuts,food and drink,food vegetable,['&#129372;'],['U+1F95C']
+chestnut,food and drink,food vegetable,['&#127792;'],['U+1F330']
+bread,food and drink,food prepared,['&#127838;'],['U+1F35E']
+croissant,food and drink,food prepared,['&#129360;'],['U+1F950']
+baguette bread,food and drink,food prepared,['&#129366;'],['U+1F956']
+pancakes,food and drink,food prepared,['&#129374;'],['U+1F95E']
+cheese wedge,food and drink,food prepared,['&#129472;'],['U+1F9C0']
+meat on bone,food and drink,food prepared,['&#127830;'],['U+1F356']
+poultry leg,food and drink,food prepared,['&#127831;'],['U+1F357']
+bacon,food and drink,food prepared,['&#129363;'],['U+1F953']
+hamburger,food and drink,food prepared,['&#127828;'],['U+1F354']
+french fries,food and drink,food prepared,['&#127839;'],['U+1F35F']
+slice of pizza ≊ pizza,food and drink,food prepared,['&#127829;'],['U+1F355']
+hot dog,food and drink,food prepared,['&#127789;'],['U+1F32D']
+taco,food and drink,food prepared,['&#127790;'],['U+1F32E']
+burrito,food and drink,food prepared,['&#127791;'],['U+1F32F']
+stuffed flatbread,food and drink,food prepared,['&#129369;'],['U+1F959']
+egg,food and drink,food prepared,['&#129370;'],['U+1F95A']
+cooking,food and drink,food prepared,['&#127859;'],['U+1F373']
+shallow pan of food,food and drink,food prepared,['&#129368;'],['U+1F958']
+pot of food,food and drink,food prepared,['&#127858;'],['U+1F372']
+green salad,food and drink,food prepared,['&#129367;'],['U+1F957']
+popcorn,food and drink,food prepared,['&#127871;'],['U+1F37F']
+bento box,food and drink,food asian,['&#127857;'],['U+1F371']
+rice cracker,food and drink,food asian,['&#127832;'],['U+1F358']
+rice ball,food and drink,food asian,['&#127833;'],['U+1F359']
+cooked rice,food and drink,food asian,['&#127834;'],['U+1F35A']
+curry and rice ≊ curry rice,food and drink,food asian,['&#127835;'],['U+1F35B']
+steaming bowl,food and drink,food asian,['&#127836;'],['U+1F35C']
+spaghetti,food and drink,food asian,['&#127837;'],['U+1F35D']
+roasted sweet potato,food and drink,food asian,['&#127840;'],['U+1F360']
+oden,food and drink,food asian,['&#127842;'],['U+1F362']
+sushi,food and drink,food asian,['&#127843;'],['U+1F363']
+fried shrimp,food and drink,food asian,['&#127844;'],['U+1F364']
+fish cake with swirl design ≊ fish cake with swirl,food and drink,food asian,['&#127845;'],['U+1F365']
+dango,food and drink,food asian,['&#127841;'],['U+1F361']
+soft ice cream,food and drink,food sweet,['&#127846;'],['U+1F366']
+shaved ice,food and drink,food sweet,['&#127847;'],['U+1F367']
+ice cream,food and drink,food sweet,['&#127848;'],['U+1F368']
+doughnut,food and drink,food sweet,['&#127849;'],['U+1F369']
+cookie,food and drink,food sweet,['&#127850;'],['U+1F36A']
+birthday cake,food and drink,food sweet,['&#127874;'],['U+1F382']
+shortcake,food and drink,food sweet,['&#127856;'],['U+1F370']
+chocolate bar,food and drink,food sweet,['&#127851;'],['U+1F36B']
+candy,food and drink,food sweet,['&#127852;'],['U+1F36C']
+lollipop,food and drink,food sweet,['&#127853;'],['U+1F36D']
+custard,food and drink,food sweet,['&#127854;'],['U+1F36E']
+honey pot,food and drink,food sweet,['&#127855;'],['U+1F36F']
+baby bottle,food and drink,drink,['&#127868;'],['U+1F37C']
+glass of milk,food and drink,drink,['&#129371;'],['U+1F95B']
+hot beverage,food and drink,drink,['&#9749;'],['U+2615']
+teacup without handle,food and drink,drink,['&#127861;'],['U+1F375']
+sake bottle and cup ≊ sake,food and drink,drink,['&#127862;'],['U+1F376']
+bottle with popping cork,food and drink,drink,['&#127870;'],['U+1F37E']
+wine glass,food and drink,drink,['&#127863;'],['U+1F377']
+cocktail glass,food and drink,drink,['&#127864;'],['U+1F378']
+tropical drink,food and drink,drink,['&#127865;'],['U+1F379']
+beer mug,food and drink,drink,['&#127866;'],['U+1F37A']
+clinking beer mugs,food and drink,drink,['&#127867;'],['U+1F37B']
+clinking glasses,food and drink,drink,['&#129346;'],['U+1F942']
+tumbler glass,food and drink,drink,['&#129347;'],['U+1F943']
+fork and knife with plate,food and drink,dishware,['&#127869;'],['U+1F37D']
+fork and knife,food and drink,dishware,['&#127860;'],['U+1F374']
+spoon,food and drink,dishware,['&#129348;'],['U+1F944']
+hocho ≊ kitchen knife,food and drink,dishware,['&#128298;'],['U+1F52A']
+amphora,food and drink,dishware,['&#127994;'],['U+1F3FA']
+earth globe europe-africa ≊ globe showing europe-africa,travel and places,travel and places,['&#127757;'],['U+1F30D']
+earth globe americas ≊ globe showing americas,travel and places,travel and places,['&#127758;'],['U+1F30E']
+earth globe asia-australia ≊ globe showing asia-australia,travel and places,travel and places,['&#127759;'],['U+1F30F']
+globe with meridians,travel and places,travel and places,['&#127760;'],['U+1F310']
+world map,travel and places,travel and places,['&#128506;'],['U+1F5FA']
+silhouette of japan ≊ map of japan,travel and places,travel and places,['&#128510;'],['U+1F5FE']
+snow capped mountain ≊ snow-capped mountain,travel and places,travel and places,['&#127956;'],['U+1F3D4']
+mountain,travel and places,travel and places,['&#9968;'],['U+26F0']
+volcano,travel and places,travel and places,['&#127755;'],['U+1F30B']
+mount fuji,travel and places,travel and places,['&#128507;'],['U+1F5FB']
+camping,travel and places,travel and places,['&#127957;'],['U+1F3D5']
+beach with umbrella,travel and places,travel and places,['&#127958;'],['U+1F3D6']
+desert,travel and places,travel and places,['&#127964;'],['U+1F3DC']
+desert island,travel and places,travel and places,['&#127965;'],['U+1F3DD']
+national park,travel and places,travel and places,['&#127966;'],['U+1F3DE']
+stadium,travel and places,travel and places,['&#127967;'],['U+1F3DF']
+classical building,travel and places,travel and places,['&#127963;'],['U+1F3DB']
+building construction,travel and places,travel and places,['&#127959;'],['U+1F3D7']
+house buildings,travel and places,travel and places,['&#127960;'],['U+1F3D8']
+cityscape,travel and places,travel and places,['&#127961;'],['U+1F3D9']
+derelict house building,travel and places,travel and places,['&#127962;'],['U+1F3DA']
+house building,travel and places,travel and places,['&#127968;'],['U+1F3E0']
+house with garden,travel and places,travel and places,['&#127969;'],['U+1F3E1']
+office building,travel and places,travel and places,['&#127970;'],['U+1F3E2']
+japanese post office,travel and places,travel and places,['&#127971;'],['U+1F3E3']
+european post office ≊ post office,travel and places,travel and places,['&#127972;'],['U+1F3E4']
+hospital,travel and places,travel and places,['&#127973;'],['U+1F3E5']
+bank,travel and places,travel and places,['&#127974;'],['U+1F3E6']
+hotel,travel and places,travel and places,['&#127976;'],['U+1F3E8']
+love hotel,travel and places,travel and places,['&#127977;'],['U+1F3E9']
+convenience store,travel and places,travel and places,['&#127978;'],['U+1F3EA']
+school,travel and places,travel and places,['&#127979;'],['U+1F3EB']
+department store,travel and places,travel and places,['&#127980;'],['U+1F3EC']
+factory,travel and places,travel and places,['&#127981;'],['U+1F3ED']
+japanese castle,travel and places,travel and places,['&#127983;'],['U+1F3EF']
+european castle ≊ castle,travel and places,travel and places,['&#127984;'],['U+1F3F0']
+wedding,travel and places,travel and places,['&#128146;'],['U+1F492']
+tokyo tower,travel and places,travel and places,['&#128508;'],['U+1F5FC']
+statue of liberty,travel and places,travel and places,['&#128509;'],['U+1F5FD']
+church,travel and places,travel and places,['&#9962;'],['U+26EA']
+mosque,travel and places,travel and places,['&#128332;'],['U+1F54C']
+synagogue,travel and places,travel and places,['&#128333;'],['U+1F54D']
+shinto shrine,travel and places,travel and places,['&#9961;'],['U+26E9']
+kaaba,travel and places,travel and places,['&#128331;'],['U+1F54B']
+fountain,travel and places,travel and places,['&#9970;'],['U+26F2']
+tent,travel and places,travel and places,['&#9978;'],['U+26FA']
+foggy,travel and places,travel and places,['&#127745;'],['U+1F301']
+night with stars,travel and places,travel and places,['&#127747;'],['U+1F303']
+sunrise over mountains,travel and places,travel and places,['&#127748;'],['U+1F304']
+sunrise,travel and places,travel and places,['&#127749;'],['U+1F305']
+cityscape at dusk,travel and places,travel and places,['&#127750;'],['U+1F306']
+sunset over buildings ≊ sunset,travel and places,travel and places,['&#127751;'],['U+1F307']
+bridge at night,travel and places,travel and places,['&#127753;'],['U+1F309']
+hot springs,travel and places,travel and places,['&#9832;'],['U+2668']
+milky way,travel and places,travel and places,['&#127756;'],['U+1F30C']
+carousel horse,travel and places,travel and places,['&#127904;'],['U+1F3A0']
+ferris wheel,travel and places,travel and places,['&#127905;'],['U+1F3A1']
+roller coaster,travel and places,travel and places,['&#127906;'],['U+1F3A2']
+barber pole,travel and places,travel and places,['&#128136;'],['U+1F488']
+circus tent,travel and places,travel and places,['&#127914;'],['U+1F3AA']
+performing arts,travel and places,travel and places,['&#127917;'],['U+1F3AD']
+frame with picture,travel and places,travel and places,['&#128444;'],['U+1F5BC']
+artist palette,travel and places,travel and places,['&#127912;'],['U+1F3A8']
+slot machine,travel and places,travel and places,['&#127920;'],['U+1F3B0']
+steam locomotive ≊ locomotive,travel and places,travel and places,['&#128642;'],['U+1F682']
+railway car,travel and places,travel and places,['&#128643;'],['U+1F683']
+high-speed train,travel and places,travel and places,['&#128644;'],['U+1F684']
+high-speed train with bullet nose,travel and places,travel and places,['&#128645;'],['U+1F685']
+train,travel and places,travel and places,['&#128646;'],['U+1F686']
+metro,travel and places,travel and places,['&#128647;'],['U+1F687']
+light rail,travel and places,travel and places,['&#128648;'],['U+1F688']
+station,travel and places,travel and places,['&#128649;'],['U+1F689']
+tram,travel and places,travel and places,['&#128650;'],['U+1F68A']
+monorail,travel and places,travel and places,['&#128669;'],['U+1F69D']
+mountain railway,travel and places,travel and places,['&#128670;'],['U+1F69E']
+tram car,travel and places,travel and places,['&#128651;'],['U+1F68B']
+bus,travel and places,travel and places,['&#128652;'],['U+1F68C']
+oncoming bus,travel and places,travel and places,['&#128653;'],['U+1F68D']
+trolleybus,travel and places,travel and places,['&#128654;'],['U+1F68E']
+minibus,travel and places,travel and places,['&#128656;'],['U+1F690']
+ambulance,travel and places,travel and places,['&#128657;'],['U+1F691']
+fire engine,travel and places,travel and places,['&#128658;'],['U+1F692']
+police car,travel and places,travel and places,['&#128659;'],['U+1F693']
+oncoming police car,travel and places,travel and places,['&#128660;'],['U+1F694']
+taxi,travel and places,travel and places,['&#128661;'],['U+1F695']
+oncoming taxi,travel and places,travel and places,['&#128662;'],['U+1F696']
+automobile,travel and places,travel and places,['&#128663;'],['U+1F697']
+oncoming automobile,travel and places,travel and places,['&#128664;'],['U+1F698']
+recreational vehicle,travel and places,travel and places,['&#128665;'],['U+1F699']
+delivery truck,travel and places,travel and places,['&#128666;'],['U+1F69A']
+articulated lorry,travel and places,travel and places,['&#128667;'],['U+1F69B']
+tractor,travel and places,travel and places,['&#128668;'],['U+1F69C']
+bicycle,travel and places,travel and places,['&#128690;'],['U+1F6B2']
+scooter ≊ kick scooter,travel and places,travel and places,['&#128756;'],['U+1F6F4']
+motor scooter,travel and places,travel and places,['&#128757;'],['U+1F6F5']
+racing car,travel and places,travel and places,['&#127950;'],['U+1F3CE']
+racing motorcycle ≊ motorcycle,travel and places,travel and places,['&#127949;'],['U+1F3CD']
+bus stop,travel and places,travel and places,['&#128655;'],['U+1F68F']
+motorway,travel and places,travel and places,['&#128739;'],['U+1F6E3']
+railway track,travel and places,travel and places,['&#128740;'],['U+1F6E4']
+fuel pump,travel and places,travel and places,['&#9981;'],['U+26FD']
+police cars revolving light ≊ police carâ€™s light,travel and places,travel and places,['&#128680;'],['U+1F6A8']
+horizontal traffic light,travel and places,travel and places,['&#128677;'],['U+1F6A5']
+vertical traffic light,travel and places,travel and places,['&#128678;'],['U+1F6A6']
+construction sign ≊ construction,travel and places,travel and places,['&#128679;'],['U+1F6A7']
+octagonal sign ≊ stop sign,travel and places,travel and places,['&#128721;'],['U+1F6D1']
+anchor,travel and places,travel and places,['&#9875;'],['U+2693']
+sailboat,travel and places,travel and places,['&#9973;'],['U+26F5']
+canoe,travel and places,travel and places,['&#128758;'],['U+1F6F6']
+speedboat,travel and places,travel and places,['&#128676;'],['U+1F6A4']
+passenger ship,travel and places,travel and places,['&#128755;'],['U+1F6F3']
+ferry,travel and places,travel and places,['&#9972;'],['U+26F4']
+motor boat,travel and places,travel and places,['&#128741;'],['U+1F6E5']
+ship,travel and places,travel and places,['&#128674;'],['U+1F6A2']
+airplane,travel and places,travel and places,['&#9992;'],['U+2708']
+small airplane,travel and places,travel and places,['&#128745;'],['U+1F6E9']
+airplane departure,travel and places,travel and places,['&#128747;'],['U+1F6EB']
+airplane arriving ≊ airplane arrival,travel and places,travel and places,['&#128748;'],['U+1F6EC']
+seat,travel and places,travel and places,['&#128186;'],['U+1F4BA']
+helicopter,travel and places,travel and places,['&#128641;'],['U+1F681']
+suspension railway,travel and places,travel and places,['&#128671;'],['U+1F69F']
+mountain cableway,travel and places,travel and places,['&#128672;'],['U+1F6A0']
+aerial tramway,travel and places,travel and places,['&#128673;'],['U+1F6A1']
+rocket,travel and places,travel and places,['&#128640;'],['U+1F680']
+satellite,travel and places,travel and places,['&#128752;'],['U+1F6F0']
+bellhop bell,travel and places,travel and places,['&#128718;'],['U+1F6CE']
+door,travel and places,travel and places,['&#128682;'],['U+1F6AA']
+sleeping accommodation ≊ person in bed,travel and places,travel and places,['&#128716;'],['U+1F6CC']
+bed,travel and places,travel and places,['&#128719;'],['U+1F6CF']
+couch and lamp,travel and places,travel and places,['&#128715;'],['U+1F6CB']
+toilet,travel and places,travel and places,['&#128701;'],['U+1F6BD']
+shower,travel and places,travel and places,['&#128703;'],['U+1F6BF']
+bath ≊ person taking bath,travel and places,travel and places,['&#128704;'],['U+1F6C0']
+"person taking bath, type-1-2",travel and places,travel and places,"['&#128704;', '&#127995;']","['U+1F6C0', 'U+1F3FB']"
+"person taking bath, type-3",travel and places,travel and places,"['&#128704;', '&#127996;']","['U+1F6C0', 'U+1F3FC']"
+"person taking bath, type-4",travel and places,travel and places,"['&#128704;', '&#127997;']","['U+1F6C0', 'U+1F3FD']"
+"person taking bath, type-5",travel and places,travel and places,"['&#128704;', '&#127998;']","['U+1F6C0', 'U+1F3FE']"
+"person taking bath, type-6",travel and places,travel and places,"['&#128704;', '&#127999;']","['U+1F6C0', 'U+1F3FF']"
+bathtub,travel and places,travel and places,['&#128705;'],['U+1F6C1']
+hourglass,travel and places,travel and places,['&#8987;'],['U+231B']
+hourglass with flowing sand,travel and places,travel and places,['&#9203;'],['U+23F3']
+watch,travel and places,travel and places,['&#8986;'],['U+231A']
+alarm clock,travel and places,travel and places,['&#9200;'],['U+23F0']
+stopwatch,travel and places,travel and places,['&#9201;'],['U+23F1']
+timer clock,travel and places,travel and places,['&#9202;'],['U+23F2']
+mantelpiece clock,travel and places,travel and places,['&#128368;'],['U+1F570']
+clock face twelve oclock ≊ twelve oâ€™clock,travel and places,travel and places,['&#128347;'],['U+1F55B']
+clock face twelve-thirty ≊ twelve-thirty,travel and places,travel and places,['&#128359;'],['U+1F567']
+clock face one oclock ≊ one oâ€™clock,travel and places,travel and places,['&#128336;'],['U+1F550']
+clock face one-thirty ≊ one-thirty,travel and places,travel and places,['&#128348;'],['U+1F55C']
+clock face two oclock ≊ two oâ€™clock,travel and places,travel and places,['&#128337;'],['U+1F551']
+clock face two-thirty ≊ two-thirty,travel and places,travel and places,['&#128349;'],['U+1F55D']
+clock face three oclock ≊ three oâ€™clock,travel and places,travel and places,['&#128338;'],['U+1F552']
+clock face three-thirty ≊ three-thirty,travel and places,travel and places,['&#128350;'],['U+1F55E']
+clock face four oclock ≊ four oâ€™clock,travel and places,travel and places,['&#128339;'],['U+1F553']
+clock face four-thirty ≊ four-thirty,travel and places,travel and places,['&#128351;'],['U+1F55F']
+clock face five oclock ≊ five oâ€™clock,travel and places,travel and places,['&#128340;'],['U+1F554']
+clock face five-thirty ≊ five-thirty,travel and places,travel and places,['&#128352;'],['U+1F560']
+clock face six oclock ≊ six oâ€™clock,travel and places,travel and places,['&#128341;'],['U+1F555']
+clock face six-thirty ≊ six-thirty,travel and places,travel and places,['&#128353;'],['U+1F561']
+clock face seven oclock ≊ seven oâ€™clock,travel and places,travel and places,['&#128342;'],['U+1F556']
+clock face seven-thirty ≊ seven-thirty,travel and places,travel and places,['&#128354;'],['U+1F562']
+clock face eight oclock ≊ eight oâ€™clock,travel and places,travel and places,['&#128343;'],['U+1F557']
+clock face eight-thirty ≊ eight-thirty,travel and places,travel and places,['&#128355;'],['U+1F563']
+clock face nine oclock ≊ nine oâ€™clock,travel and places,travel and places,['&#128344;'],['U+1F558']
+clock face nine-thirty ≊ nine-thirty,travel and places,travel and places,['&#128356;'],['U+1F564']
+clock face ten oclock ≊ ten oâ€™clock,travel and places,travel and places,['&#128345;'],['U+1F559']
+clock face ten-thirty ≊ ten-thirty,travel and places,travel and places,['&#128357;'],['U+1F565']
+clock face eleven oclock ≊ eleven oâ€™clock,travel and places,travel and places,['&#128346;'],['U+1F55A']
+clock face eleven-thirty ≊ eleven-thirty,travel and places,travel and places,['&#128358;'],['U+1F566']
+new moon symbol ≊ new moon,travel and places,travel and places,['&#127761;'],['U+1F311']
+waxing crescent moon symbol ≊ waxing crescent moon,travel and places,travel and places,['&#127762;'],['U+1F312']
+first quarter moon symbol ≊ first quarter moon,travel and places,travel and places,['&#127763;'],['U+1F313']
+waxing gibbous moon symbol ≊ waxing gibbous moon,travel and places,travel and places,['&#127764;'],['U+1F314']
+full moon symbol ≊ full moon,travel and places,travel and places,['&#127765;'],['U+1F315']
+waning gibbous moon symbol ≊ waning gibbous moon,travel and places,travel and places,['&#127766;'],['U+1F316']
+last quarter moon symbol ≊ last quarter moon,travel and places,travel and places,['&#127767;'],['U+1F317']
+waning crescent moon symbol ≊ waning crescent moon,travel and places,travel and places,['&#127768;'],['U+1F318']
+crescent moon,travel and places,travel and places,['&#127769;'],['U+1F319']
+new moon with face ≊ new moon face,travel and places,travel and places,['&#127770;'],['U+1F31A']
+first quarter moon with face,travel and places,travel and places,['&#127771;'],['U+1F31B']
+last quarter moon with face,travel and places,travel and places,['&#127772;'],['U+1F31C']
+thermometer,travel and places,travel and places,['&#127777;'],['U+1F321']
+black sun with rays ≊ sun,travel and places,travel and places,['&#9728;'],['U+2600']
+full moon with face,travel and places,travel and places,['&#127773;'],['U+1F31D']
+sun with face,travel and places,travel and places,['&#127774;'],['U+1F31E']
+white medium star,travel and places,travel and places,['&#11088;'],['U+2B50']
+glowing star,travel and places,travel and places,['&#127775;'],['U+1F31F']
+shooting star,travel and places,travel and places,['&#127776;'],['U+1F320']
+cloud,travel and places,travel and places,['&#9729;'],['U+2601']
+sun behind cloud,travel and places,travel and places,['&#9925;'],['U+26C5']
+thunder cloud and rain ≊ cloud with lightning and rain,travel and places,travel and places,['&#9928;'],['U+26C8']
+white sun with small cloud ≊ sun behind small cloud,travel and places,travel and places,['&#127780;'],['U+1F324']
+white sun behind cloud ≊ sun behind large cloud,travel and places,travel and places,['&#127781;'],['U+1F325']
+white sun behind cloud with rain ≊ sun behind cloud with rain,travel and places,travel and places,['&#127782;'],['U+1F326']
+cloud with rain,travel and places,travel and places,['&#127783;'],['U+1F327']
+cloud with snow,travel and places,travel and places,['&#127784;'],['U+1F328']
+cloud with lightning,travel and places,travel and places,['&#127785;'],['U+1F329']
+cloud with tornado ≊ tornado,travel and places,travel and places,['&#127786;'],['U+1F32A']
+fog,travel and places,travel and places,['&#127787;'],['U+1F32B']
+wind blowing face ≊ wind face,travel and places,travel and places,['&#127788;'],['U+1F32C']
+cyclone,travel and places,travel and places,['&#127744;'],['U+1F300']
+rainbow,travel and places,travel and places,['&#127752;'],['U+1F308']
+closed umbrella,travel and places,travel and places,['&#127746;'],['U+1F302']
+umbrella,travel and places,travel and places,['&#9730;'],['U+2602']
+umbrella with rain drops,travel and places,travel and places,['&#9748;'],['U+2614']
+umbrella on ground,travel and places,travel and places,['&#9969;'],['U+26F1']
+high voltage sign ≊ high voltage,travel and places,travel and places,['&#9889;'],['U+26A1']
+snowflake,travel and places,travel and places,['&#10052;'],['U+2744']
+snowman,travel and places,travel and places,['&#9731;'],['U+2603']
+snowman without snow,travel and places,travel and places,['&#9924;'],['U+26C4']
+comet,travel and places,travel and places,['&#9732;'],['U+2604']
+fire,travel and places,travel and places,['&#128293;'],['U+1F525']
+droplet,travel and places,travel and places,['&#128167;'],['U+1F4A7']
+water wave,travel and places,travel and places,['&#127754;'],['U+1F30A']
+jack-o-lantern,activities,activities,['&#127875;'],['U+1F383']
+christmas tree,activities,activities,['&#127876;'],['U+1F384']
+fireworks,activities,activities,['&#127878;'],['U+1F386']
+firework sparkler ≊ sparkler,activities,activities,['&#127879;'],['U+1F387']
+sparkles,activities,activities,['&#10024;'],['U+2728']
+balloon,activities,activities,['&#127880;'],['U+1F388']
+party popper,activities,activities,['&#127881;'],['U+1F389']
+confetti ball,activities,activities,['&#127882;'],['U+1F38A']
+tanabata tree,activities,activities,['&#127883;'],['U+1F38B']
+pine decoration,activities,activities,['&#127885;'],['U+1F38D']
+japanese dolls,activities,activities,['&#127886;'],['U+1F38E']
+carp streamer,activities,activities,['&#127887;'],['U+1F38F']
+wind chime,activities,activities,['&#127888;'],['U+1F390']
+moon viewing ceremony ≊ moon ceremony,activities,activities,['&#127889;'],['U+1F391']
+ribbon,activities,activities,['&#127872;'],['U+1F380']
+wrapped present,activities,activities,['&#127873;'],['U+1F381']
+reminder ribbon,activities,activities,['&#127895;'],['U+1F397']
+admission tickets,activities,activities,['&#127903;'],['U+1F39F']
+ticket,activities,activities,['&#127915;'],['U+1F3AB']
+military medal,activities,activities,['&#127894;'],['U+1F396']
+trophy,activities,activities,['&#127942;'],['U+1F3C6']
+sports medal,activities,activities,['&#127941;'],['U+1F3C5']
+first place medal ≊ 1st place medal,activities,activities,['&#129351;'],['U+1F947']
+second place medal ≊ 2nd place medal,activities,activities,['&#129352;'],['U+1F948']
+third place medal ≊ 3rd place medal,activities,activities,['&#129353;'],['U+1F949']
+soccer ball,activities,activities,['&#9917;'],['U+26BD']
+baseball,activities,activities,['&#9918;'],['U+26BE']
+basketball and hoop ≊ basketball,activities,activities,['&#127936;'],['U+1F3C0']
+volleyball,activities,activities,['&#127952;'],['U+1F3D0']
+american football,activities,activities,['&#127944;'],['U+1F3C8']
+rugby football,activities,activities,['&#127945;'],['U+1F3C9']
+tennis racquet and ball ≊ tennis,activities,activities,['&#127934;'],['U+1F3BE']
+billiards,activities,activities,['&#127921;'],['U+1F3B1']
+bowling,activities,activities,['&#127923;'],['U+1F3B3']
+cricket bat and ball ≊ cricket,activities,activities,['&#127951;'],['U+1F3CF']
+field hockey stick and ball ≊ field hockey,activities,activities,['&#127953;'],['U+1F3D1']
+ice hockey stick and puck,activities,activities,['&#127954;'],['U+1F3D2']
+table tennis paddle and ball ≊ ping pong,activities,activities,['&#127955;'],['U+1F3D3']
+badminton racquet and shuttlecock ≊ badminton,activities,activities,['&#127992;'],['U+1F3F8']
+boxing glove,activities,activities,['&#129354;'],['U+1F94A']
+martial arts uniform,activities,activities,['&#129355;'],['U+1F94B']
+goal net,activities,activities,['&#129349;'],['U+1F945']
+direct hit,activities,activities,['&#127919;'],['U+1F3AF']
+flag in hole,activities,activities,['&#9971;'],['U+26F3']
+ice skate,activities,activities,['&#9976;'],['U+26F8']
+fishing pole and fish ≊ fishing pole,activities,activities,['&#127907;'],['U+1F3A3']
+running shirt with sash ≊ running shirt,activities,activities,['&#127933;'],['U+1F3BD']
+ski and ski boot ≊ skis,activities,activities,['&#127935;'],['U+1F3BF']
+fencer ≊ person fencing,activities,activities,['&#129338;'],['U+1F93A']
+horse racing,activities,activities,['&#127943;'],['U+1F3C7']
+skier,activities,activities,['&#9975;'],['U+26F7']
+snowboarder,activities,activities,['&#127938;'],['U+1F3C2']
+golfer ≊ person golfing,activities,activities,['&#127948;'],['U+1F3CC']
+surfer ≊ person surfing,activities,activities,['&#127940;'],['U+1F3C4']
+"person surfing, type-1-2",activities,activities,"['&#127940;', '&#127995;']","['U+1F3C4', 'U+1F3FB']"
+"person surfing, type-3",activities,activities,"['&#127940;', '&#127996;']","['U+1F3C4', 'U+1F3FC']"
+"person surfing, type-4",activities,activities,"['&#127940;', '&#127997;']","['U+1F3C4', 'U+1F3FD']"
+"person surfing, type-5",activities,activities,"['&#127940;', '&#127998;']","['U+1F3C4', 'U+1F3FE']"
+"person surfing, type-6",activities,activities,"['&#127940;', '&#127999;']","['U+1F3C4', 'U+1F3FF']"
+rowboat ≊ person rowing boat,activities,activities,['&#128675;'],['U+1F6A3']
+"person rowing boat, type-1-2",activities,activities,"['&#128675;', '&#127995;']","['U+1F6A3', 'U+1F3FB']"
+"person rowing boat, type-3",activities,activities,"['&#128675;', '&#127996;']","['U+1F6A3', 'U+1F3FC']"
+"person rowing boat, type-4",activities,activities,"['&#128675;', '&#127997;']","['U+1F6A3', 'U+1F3FD']"
+"person rowing boat, type-5",activities,activities,"['&#128675;', '&#127998;']","['U+1F6A3', 'U+1F3FE']"
+"person rowing boat, type-6",activities,activities,"['&#128675;', '&#127999;']","['U+1F6A3', 'U+1F3FF']"
+swimmer ≊ person swimming,activities,activities,['&#127946;'],['U+1F3CA']
+"person swimming, type-1-2",activities,activities,"['&#127946;', '&#127995;']","['U+1F3CA', 'U+1F3FB']"
+"person swimming, type-3",activities,activities,"['&#127946;', '&#127996;']","['U+1F3CA', 'U+1F3FC']"
+"person swimming, type-4",activities,activities,"['&#127946;', '&#127997;']","['U+1F3CA', 'U+1F3FD']"
+"person swimming, type-5",activities,activities,"['&#127946;', '&#127998;']","['U+1F3CA', 'U+1F3FE']"
+"person swimming, type-6",activities,activities,"['&#127946;', '&#127999;']","['U+1F3CA', 'U+1F3FF']"
+person with ball,activities,activities,['&#9977;'],['U+26F9']
+"person with ball, type-1-2",activities,activities,"['&#9977;', '&#127995;']","['U+26F9', 'U+1F3FB']"
+"person with ball, type-3",activities,activities,"['&#9977;', '&#127996;']","['U+26F9', 'U+1F3FC']"
+"person with ball, type-4",activities,activities,"['&#9977;', '&#127997;']","['U+26F9', 'U+1F3FD']"
+"person with ball, type-5",activities,activities,"['&#9977;', '&#127998;']","['U+26F9', 'U+1F3FE']"
+"person with ball, type-6",activities,activities,"['&#9977;', '&#127999;']","['U+26F9', 'U+1F3FF']"
+weight lifter ≊ person weight lifting,activities,activities,['&#127947;'],['U+1F3CB']
+"person weight lifting, type-1-2",activities,activities,"['&#127947;', '&#127995;']","['U+1F3CB', 'U+1F3FB']"
+"person weight lifting, type-3",activities,activities,"['&#127947;', '&#127996;']","['U+1F3CB', 'U+1F3FC']"
+"person weight lifting, type-4",activities,activities,"['&#127947;', '&#127997;']","['U+1F3CB', 'U+1F3FD']"
+"person weight lifting, type-5",activities,activities,"['&#127947;', '&#127998;']","['U+1F3CB', 'U+1F3FE']"
+"person weight lifting, type-6",activities,activities,"['&#127947;', '&#127999;']","['U+1F3CB', 'U+1F3FF']"
+bicyclist ≊ person biking,activities,activities,['&#128692;'],['U+1F6B4']
+"person biking, type-1-2",activities,activities,"['&#128692;', '&#127995;']","['U+1F6B4', 'U+1F3FB']"
+"person biking, type-3",activities,activities,"['&#128692;', '&#127996;']","['U+1F6B4', 'U+1F3FC']"
+"person biking, type-4",activities,activities,"['&#128692;', '&#127997;']","['U+1F6B4', 'U+1F3FD']"
+"person biking, type-5",activities,activities,"['&#128692;', '&#127998;']","['U+1F6B4', 'U+1F3FE']"
+"person biking, type-6",activities,activities,"['&#128692;', '&#127999;']","['U+1F6B4', 'U+1F3FF']"
+mountain bicyclist ≊ person mountain biking,activities,activities,['&#128693;'],['U+1F6B5']
+"person mountain biking, type-1-2",activities,activities,"['&#128693;', '&#127995;']","['U+1F6B5', 'U+1F3FB']"
+"person mountain biking, type-3",activities,activities,"['&#128693;', '&#127996;']","['U+1F6B5', 'U+1F3FC']"
+"person mountain biking, type-4",activities,activities,"['&#128693;', '&#127997;']","['U+1F6B5', 'U+1F3FD']"
+"person mountain biking, type-5",activities,activities,"['&#128693;', '&#127998;']","['U+1F6B5', 'U+1F3FE']"
+"person mountain biking, type-6",activities,activities,"['&#128693;', '&#127999;']","['U+1F6B5', 'U+1F3FF']"
+person doing cartwheel,activities,activities,['&#129336;'],['U+1F938']
+"person doing cartwheel, type-1-2",activities,activities,"['&#129336;', '&#127995;']","['U+1F938', 'U+1F3FB']"
+"person doing cartwheel, type-3",activities,activities,"['&#129336;', '&#127996;']","['U+1F938', 'U+1F3FC']"
+"person doing cartwheel, type-4",activities,activities,"['&#129336;', '&#127997;']","['U+1F938', 'U+1F3FD']"
+"person doing cartwheel, type-5",activities,activities,"['&#129336;', '&#127998;']","['U+1F938', 'U+1F3FE']"
+"person doing cartwheel, type-6",activities,activities,"['&#129336;', '&#127999;']","['U+1F938', 'U+1F3FF']"
+wrestlers ≊ people wrestling,activities,activities,['&#129340;'],['U+1F93C']
+"people wrestling, type-1-2",activities,activities,"['&#129340;', '&#127995;']","['U+1F93C', 'U+1F3FB']"
+"people wrestling, type-3",activities,activities,"['&#129340;', '&#127996;']","['U+1F93C', 'U+1F3FC']"
+"people wrestling, type-4",activities,activities,"['&#129340;', '&#127997;']","['U+1F93C', 'U+1F3FD']"
+"people wrestling, type-5",activities,activities,"['&#129340;', '&#127998;']","['U+1F93C', 'U+1F3FE']"
+"people wrestling, type-6",activities,activities,"['&#129340;', '&#127999;']","['U+1F93C', 'U+1F3FF']"
+water polo ≊ person playing water polo,activities,activities,['&#129341;'],['U+1F93D']
+"person playing water polo, type-1-2",activities,activities,"['&#129341;', '&#127995;']","['U+1F93D', 'U+1F3FB']"
+"person playing water polo, type-3",activities,activities,"['&#129341;', '&#127996;']","['U+1F93D', 'U+1F3FC']"
+"person playing water polo, type-4",activities,activities,"['&#129341;', '&#127997;']","['U+1F93D', 'U+1F3FD']"
+"person playing water polo, type-5",activities,activities,"['&#129341;', '&#127998;']","['U+1F93D', 'U+1F3FE']"
+"person playing water polo, type-6",activities,activities,"['&#129341;', '&#127999;']","['U+1F93D', 'U+1F3FF']"
+handball ≊ person playing handball,activities,activities,['&#129342;'],['U+1F93E']
+"person playing handball, type-1-2",activities,activities,"['&#129342;', '&#127995;']","['U+1F93E', 'U+1F3FB']"
+"person playing handball, type-3",activities,activities,"['&#129342;', '&#127996;']","['U+1F93E', 'U+1F3FC']"
+"person playing handball, type-4",activities,activities,"['&#129342;', '&#127997;']","['U+1F93E', 'U+1F3FD']"
+"person playing handball, type-5",activities,activities,"['&#129342;', '&#127998;']","['U+1F93E', 'U+1F3FE']"
+"person playing handball, type-6",activities,activities,"['&#129342;', '&#127999;']","['U+1F93E', 'U+1F3FF']"
+juggling ≊ person juggling,activities,activities,['&#129337;'],['U+1F939']
+"person juggling, type-1-2",activities,activities,"['&#129337;', '&#127995;']","['U+1F939', 'U+1F3FB']"
+"person juggling, type-3",activities,activities,"['&#129337;', '&#127996;']","['U+1F939', 'U+1F3FC']"
+"person juggling, type-4",activities,activities,"['&#129337;', '&#127997;']","['U+1F939', 'U+1F3FD']"
+"person juggling, type-5",activities,activities,"['&#129337;', '&#127998;']","['U+1F939', 'U+1F3FE']"
+"person juggling, type-6",activities,activities,"['&#129337;', '&#127999;']","['U+1F939', 'U+1F3FF']"
+video game,activities,activities,['&#127918;'],['U+1F3AE']
+joystick,activities,activities,['&#128377;'],['U+1F579']
+game die,activities,activities,['&#127922;'],['U+1F3B2']
+black spade suit ≊ spade suit,activities,activities,['&#9824;'],['U+2660']
+black heart suit ≊ heart suit,activities,activities,['&#9829;'],['U+2665']
+black diamond suit ≊ diamond suit,activities,activities,['&#9830;'],['U+2666']
+black club suit ≊ club suit,activities,activities,['&#9827;'],['U+2663']
+playing card black joker ≊ joker,activities,activities,['&#127183;'],['U+1F0CF']
+mahjong tile red dragon ≊ mahjong red dragon,activities,activities,['&#126980;'],['U+1F004']
+flower playing cards,activities,activities,['&#127924;'],['U+1F3B4']
+speaker with cancellation stroke ≊ speaker off,objects,objects,['&#128263;'],['U+1F507']
+speaker,objects,objects,['&#128264;'],['U+1F508']
+speaker with one sound wave ≊ speaker on,objects,objects,['&#128265;'],['U+1F509']
+speaker with three sound waves ≊ speaker loud,objects,objects,['&#128266;'],['U+1F50A']
+public address loudspeaker ≊ loudspeaker,objects,objects,['&#128226;'],['U+1F4E2']
+cheering megaphone ≊ megaphone,objects,objects,['&#128227;'],['U+1F4E3']
+postal horn,objects,objects,['&#128239;'],['U+1F4EF']
+bell,objects,objects,['&#128276;'],['U+1F514']
+bell with cancellation stroke ≊ bell with slash,objects,objects,['&#128277;'],['U+1F515']
+musical score,objects,objects,['&#127932;'],['U+1F3BC']
+musical note,objects,objects,['&#127925;'],['U+1F3B5']
+multiple musical notes ≊ musical notes,objects,objects,['&#127926;'],['U+1F3B6']
+studio microphone,objects,objects,['&#127897;'],['U+1F399']
+level slider,objects,objects,['&#127898;'],['U+1F39A']
+control knobs,objects,objects,['&#127899;'],['U+1F39B']
+microphone,objects,objects,['&#127908;'],['U+1F3A4']
+headphone,objects,objects,['&#127911;'],['U+1F3A7']
+radio,objects,objects,['&#128251;'],['U+1F4FB']
+saxophone,objects,objects,['&#127927;'],['U+1F3B7']
+guitar,objects,objects,['&#127928;'],['U+1F3B8']
+musical keyboard,objects,objects,['&#127929;'],['U+1F3B9']
+trumpet,objects,objects,['&#127930;'],['U+1F3BA']
+violin,objects,objects,['&#127931;'],['U+1F3BB']
+drum with drumsticks ≊ drum,objects,objects,['&#129345;'],['U+1F941']
+mobile phone,objects,objects,['&#128241;'],['U+1F4F1']
+mobile phone with rightwards arrow at left ≊ mobile phone with arrow,objects,objects,['&#128242;'],['U+1F4F2']
+black telephone ≊ telephone,objects,objects,['&#9742;'],['U+260E']
+telephone receiver,objects,objects,['&#128222;'],['U+1F4DE']
+pager,objects,objects,['&#128223;'],['U+1F4DF']
+fax machine,objects,objects,['&#128224;'],['U+1F4E0']
+battery,objects,objects,['&#128267;'],['U+1F50B']
+electric plug,objects,objects,['&#128268;'],['U+1F50C']
+personal computer ≊ laptop computer,objects,objects,['&#128187;'],['U+1F4BB']
+desktop computer,objects,objects,['&#128421;'],['U+1F5A5']
+printer,objects,objects,['&#128424;'],['U+1F5A8']
+keyboard,objects,objects,['&#9000;'],['U+2328']
+three button mouse ≊ computer mouse,objects,objects,['&#128433;'],['U+1F5B1']
+trackball,objects,objects,['&#128434;'],['U+1F5B2']
+minidisc,objects,objects,['&#128189;'],['U+1F4BD']
+floppy disk,objects,objects,['&#128190;'],['U+1F4BE']
+optical disc,objects,objects,['&#128191;'],['U+1F4BF']
+dvd,objects,objects,['&#128192;'],['U+1F4C0']
+movie camera,objects,objects,['&#127909;'],['U+1F3A5']
+film frames,objects,objects,['&#127902;'],['U+1F39E']
+film projector,objects,objects,['&#128253;'],['U+1F4FD']
+clapper board,objects,objects,['&#127916;'],['U+1F3AC']
+television,objects,objects,['&#128250;'],['U+1F4FA']
+camera,objects,objects,['&#128247;'],['U+1F4F7']
+camera with flash,objects,objects,['&#128248;'],['U+1F4F8']
+video camera,objects,objects,['&#128249;'],['U+1F4F9']
+videocassette,objects,objects,['&#128252;'],['U+1F4FC']
+left-pointing magnifying glass,objects,objects,['&#128269;'],['U+1F50D']
+right-pointing magnifying glass,objects,objects,['&#128270;'],['U+1F50E']
+microscope,objects,objects,['&#128300;'],['U+1F52C']
+telescope,objects,objects,['&#128301;'],['U+1F52D']
+satellite antenna,objects,objects,['&#128225;'],['U+1F4E1']
+candle,objects,objects,['&#128367;'],['U+1F56F']
+electric light bulb ≊ light bulb,objects,objects,['&#128161;'],['U+1F4A1']
+electric torch ≊ flashlight,objects,objects,['&#128294;'],['U+1F526']
+izakaya lantern ≊ red paper lantern,objects,objects,['&#127982;'],['U+1F3EE']
+notebook with decorative cover,objects,objects,['&#128212;'],['U+1F4D4']
+closed book,objects,objects,['&#128213;'],['U+1F4D5']
+open book,objects,objects,['&#128214;'],['U+1F4D6']
+green book,objects,objects,['&#128215;'],['U+1F4D7']
+blue book,objects,objects,['&#128216;'],['U+1F4D8']
+orange book,objects,objects,['&#128217;'],['U+1F4D9']
+books,objects,objects,['&#128218;'],['U+1F4DA']
+notebook,objects,objects,['&#128211;'],['U+1F4D3']
+ledger,objects,objects,['&#128210;'],['U+1F4D2']
+page with curl,objects,objects,['&#128195;'],['U+1F4C3']
+scroll,objects,objects,['&#128220;'],['U+1F4DC']
+page facing up,objects,objects,['&#128196;'],['U+1F4C4']
+newspaper,objects,objects,['&#128240;'],['U+1F4F0']
+rolled-up newspaper,objects,objects,['&#128478;'],['U+1F5DE']
+bookmark tabs,objects,objects,['&#128209;'],['U+1F4D1']
+bookmark,objects,objects,['&#128278;'],['U+1F516']
+label,objects,objects,['&#127991;'],['U+1F3F7']
+money bag,objects,objects,['&#128176;'],['U+1F4B0']
+banknote with yen sign ≊ yen banknote,objects,objects,['&#128180;'],['U+1F4B4']
+banknote with dollar sign ≊ dollar banknote,objects,objects,['&#128181;'],['U+1F4B5']
+banknote with euro sign ≊ euro banknote,objects,objects,['&#128182;'],['U+1F4B6']
+banknote with pound sign ≊ pound banknote,objects,objects,['&#128183;'],['U+1F4B7']
+money with wings,objects,objects,['&#128184;'],['U+1F4B8']
+credit card,objects,objects,['&#128179;'],['U+1F4B3']
+chart with upwards trend and yen sign ≊ chart increasing with yen,objects,objects,['&#128185;'],['U+1F4B9']
+currency exchange,objects,objects,['&#128177;'],['U+1F4B1']
+heavy dollar sign,objects,objects,['&#128178;'],['U+1F4B2']
+envelope,objects,objects,['&#9993;'],['U+2709']
+e-mail symbol ≊ e-mail,objects,objects,['&#128231;'],['U+1F4E7']
+incoming envelope,objects,objects,['&#128232;'],['U+1F4E8']
+envelope with downwards arrow above ≊ envelope with arrow,objects,objects,['&#128233;'],['U+1F4E9']
+outbox tray,objects,objects,['&#128228;'],['U+1F4E4']
+inbox tray,objects,objects,['&#128229;'],['U+1F4E5']
+package,objects,objects,['&#128230;'],['U+1F4E6']
+closed mailbox with raised flag,objects,objects,['&#128235;'],['U+1F4EB']
+closed mailbox with lowered flag,objects,objects,['&#128234;'],['U+1F4EA']
+open mailbox with raised flag,objects,objects,['&#128236;'],['U+1F4EC']
+open mailbox with lowered flag,objects,objects,['&#128237;'],['U+1F4ED']
+postbox,objects,objects,['&#128238;'],['U+1F4EE']
+ballot box with ballot,objects,objects,['&#128499;'],['U+1F5F3']
+pencil,objects,objects,['&#9999;'],['U+270F']
+black nib,objects,objects,['&#10002;'],['U+2712']
+lower left fountain pen ≊ fountain pen,objects,objects,['&#128395;'],['U+1F58B']
+lower left ballpoint pen ≊ pen,objects,objects,['&#128394;'],['U+1F58A']
+lower left paintbrush ≊ paintbrush,objects,objects,['&#128396;'],['U+1F58C']
+lower left crayon ≊ crayon,objects,objects,['&#128397;'],['U+1F58D']
+memo,objects,objects,['&#128221;'],['U+1F4DD']
+briefcase,objects,objects,['&#128188;'],['U+1F4BC']
+file folder,objects,objects,['&#128193;'],['U+1F4C1']
+open file folder,objects,objects,['&#128194;'],['U+1F4C2']
+card index dividers,objects,objects,['&#128450;'],['U+1F5C2']
+calendar,objects,objects,['&#128197;'],['U+1F4C5']
+tear-off calendar,objects,objects,['&#128198;'],['U+1F4C6']
+spiral note pad ≊ spiral notepad,objects,objects,['&#128466;'],['U+1F5D2']
+spiral calendar pad ≊ spiral calendar,objects,objects,['&#128467;'],['U+1F5D3']
+card index,objects,objects,['&#128199;'],['U+1F4C7']
+chart with upwards trend ≊ chart increasing,objects,objects,['&#128200;'],['U+1F4C8']
+chart with downwards trend ≊ chart decreasing,objects,objects,['&#128201;'],['U+1F4C9']
+bar chart,objects,objects,['&#128202;'],['U+1F4CA']
+clipboard,objects,objects,['&#128203;'],['U+1F4CB']
+pushpin,objects,objects,['&#128204;'],['U+1F4CC']
+round pushpin,objects,objects,['&#128205;'],['U+1F4CD']
+paperclip,objects,objects,['&#128206;'],['U+1F4CE']
+linked paperclips,objects,objects,['&#128391;'],['U+1F587']
+straight ruler,objects,objects,['&#128207;'],['U+1F4CF']
+triangular ruler,objects,objects,['&#128208;'],['U+1F4D0']
+black scissors ≊ scissors,objects,objects,['&#9986;'],['U+2702']
+card file box,objects,objects,['&#128451;'],['U+1F5C3']
+file cabinet,objects,objects,['&#128452;'],['U+1F5C4']
+wastebasket,objects,objects,['&#128465;'],['U+1F5D1']
+lock,objects,objects,['&#128274;'],['U+1F512']
+open lock,objects,objects,['&#128275;'],['U+1F513']
+lock with ink pen ≊ lock with pen,objects,objects,['&#128271;'],['U+1F50F']
+closed lock with key,objects,objects,['&#128272;'],['U+1F510']
+key,objects,objects,['&#128273;'],['U+1F511']
+old key,objects,objects,['&#128477;'],['U+1F5DD']
+hammer,objects,objects,['&#128296;'],['U+1F528']
+pick,objects,objects,['&#9935;'],['U+26CF']
+hammer and pick,objects,objects,['&#9874;'],['U+2692']
+hammer and wrench,objects,objects,['&#128736;'],['U+1F6E0']
+dagger knife ≊ dagger,objects,objects,['&#128481;'],['U+1F5E1']
+crossed swords,objects,objects,['&#9876;'],['U+2694']
+pistol,objects,objects,['&#128299;'],['U+1F52B']
+bow and arrow,objects,objects,['&#127993;'],['U+1F3F9']
+shield,objects,objects,['&#128737;'],['U+1F6E1']
+wrench,objects,objects,['&#128295;'],['U+1F527']
+nut and bolt,objects,objects,['&#128297;'],['U+1F529']
+gear,objects,objects,['&#9881;'],['U+2699']
+compression,objects,objects,['&#128476;'],['U+1F5DC']
+alembic,objects,objects,['&#9879;'],['U+2697']
+scales ≊ balance scale,objects,objects,['&#9878;'],['U+2696']
+link symbol ≊ link,objects,objects,['&#128279;'],['U+1F517']
+chains,objects,objects,['&#9939;'],['U+26D3']
+syringe,objects,objects,['&#128137;'],['U+1F489']
+pill,objects,objects,['&#128138;'],['U+1F48A']
+smoking symbol ≊ smoking,objects,objects,['&#128684;'],['U+1F6AC']
+coffin,objects,objects,['&#9904;'],['U+26B0']
+funeral urn,objects,objects,['&#9905;'],['U+26B1']
+moyai ≊ moai,objects,objects,['&#128511;'],['U+1F5FF']
+oil drum,objects,objects,['&#128738;'],['U+1F6E2']
+crystal ball,objects,objects,['&#128302;'],['U+1F52E']
+shopping trolley ≊ shopping cart,objects,objects,['&#128722;'],['U+1F6D2']
+automated teller machine ≊ atm sign,symbols,symbols,['&#127975;'],['U+1F3E7']
+put litter in its place symbol ≊ litter in bin sign,symbols,symbols,['&#128686;'],['U+1F6AE']
+potable water symbol ≊ potable water,symbols,symbols,['&#128688;'],['U+1F6B0']
+wheelchair symbol ≊ wheelchair,symbols,symbols,['&#9855;'],['U+267F']
+mens symbol ≊ men’s room,symbols,symbols,['&#128697;'],['U+1F6B9']
+womens symbol ≊ women’s room,symbols,symbols,['&#128698;'],['U+1F6BA']
+restroom,symbols,symbols,['&#128699;'],['U+1F6BB']
+baby symbol,symbols,symbols,['&#128700;'],['U+1F6BC']
+water closet,symbols,symbols,['&#128702;'],['U+1F6BE']
+passport control,symbols,symbols,['&#128706;'],['U+1F6C2']
+customs,symbols,symbols,['&#128707;'],['U+1F6C3']
+baggage claim,symbols,symbols,['&#128708;'],['U+1F6C4']
+left luggage,symbols,symbols,['&#128709;'],['U+1F6C5']
+warning sign ≊ warning,symbols,symbols,['&#9888;'],['U+26A0']
+children crossing,symbols,symbols,['&#128696;'],['U+1F6B8']
+no entry,symbols,symbols,['&#9940;'],['U+26D4']
+no entry sign ≊ prohibited,symbols,symbols,['&#128683;'],['U+1F6AB']
+no bicycles,symbols,symbols,['&#128691;'],['U+1F6B3']
+no smoking symbol ≊ no smoking,symbols,symbols,['&#128685;'],['U+1F6AD']
+do not litter symbol ≊ no littering,symbols,symbols,['&#128687;'],['U+1F6AF']
+non-potable water symbol ≊ non-potable water,symbols,symbols,['&#128689;'],['U+1F6B1']
+no pedestrians,symbols,symbols,['&#128695;'],['U+1F6B7']
+no mobile phones,symbols,symbols,['&#128245;'],['U+1F4F5']
+no one under eighteen symbol ≊ no one under eighteen,symbols,symbols,['&#128286;'],['U+1F51E']
+radioactive sign ≊ radioactive,symbols,symbols,['&#9762;'],['U+2622']
+biohazard sign ≊ biohazard,symbols,symbols,['&#9763;'],['U+2623']
+upwards black arrow ≊ up arrow,symbols,symbols,['&#11014;'],['U+2B06']
+north east arrow ≊ up-right arrow,symbols,symbols,['&#8599;'],['U+2197']
+black rightwards arrow ≊ right arrow,symbols,symbols,['&#10145;'],['U+27A1']
+south east arrow ≊ down-right arrow,symbols,symbols,['&#8600;'],['U+2198']
+downwards black arrow ≊ down arrow,symbols,symbols,['&#11015;'],['U+2B07']
+south west arrow ≊ down-left arrow,symbols,symbols,['&#8601;'],['U+2199']
+leftwards black arrow ≊ left arrow,symbols,symbols,['&#11013;'],['U+2B05']
+north west arrow ≊ up-left arrow,symbols,symbols,['&#8598;'],['U+2196']
+up down arrow ≊ up-down arrow,symbols,symbols,['&#8597;'],['U+2195']
+left right arrow ≊ left-right arrow,symbols,symbols,['&#8596;'],['U+2194']
+leftwards arrow with hook ≊ right arrow curving left,symbols,symbols,['&#8617;'],['U+21A9']
+rightwards arrow with hook ≊ left arrow curving right,symbols,symbols,['&#8618;'],['U+21AA']
+arrow pointing rightwards then curving upwards ≊ right arrow curving up,symbols,symbols,['&#10548;'],['U+2934']
+arrow pointing rightwards then curving downwards ≊ right arrow curving down,symbols,symbols,['&#10549;'],['U+2935']
+clockwise downwards and upwards open circle arrows ≊ clockwise vertical arrows,symbols,symbols,['&#128259;'],['U+1F503']
+anticlockwise downwards and upwards open circle arrows ≊ anticlockwise arrows button,symbols,symbols,['&#128260;'],['U+1F504']
+back with leftwards arrow above ≊ back arrow,symbols,symbols,['&#128281;'],['U+1F519']
+end with leftwards arrow above ≊ end arrow,symbols,symbols,['&#128282;'],['U+1F51A']
+on with exclamation mark with left right arrow above ≊ on! arrow,symbols,symbols,['&#128283;'],['U+1F51B']
+soon with rightwards arrow above ≊ soon arrow,symbols,symbols,['&#128284;'],['U+1F51C']
+top with upwards arrow above ≊ top arrow,symbols,symbols,['&#128285;'],['U+1F51D']
+place of worship,symbols,symbols,['&#128720;'],['U+1F6D0']
+atom symbol,symbols,symbols,['&#9883;'],['U+269B']
+om symbol ≊ om,symbols,symbols,['&#128329;'],['U+1F549']
+star of david,symbols,symbols,['&#10017;'],['U+2721']
+wheel of dharma,symbols,symbols,['&#9784;'],['U+2638']
+yin yang,symbols,symbols,['&#9775;'],['U+262F']
+latin cross,symbols,symbols,['&#10013;'],['U+271D']
+orthodox cross,symbols,symbols,['&#9766;'],['U+2626']
+star and crescent,symbols,symbols,['&#9770;'],['U+262A']
+peace symbol,symbols,symbols,['&#9774;'],['U+262E']
+menorah with nine branches ≊ menorah,symbols,symbols,['&#128334;'],['U+1F54E']
+six pointed star with middle dot ≊ dotted six-pointed star,symbols,symbols,['&#128303;'],['U+1F52F']
+black universal recycling symbol ≊ recycling symbol,symbols,symbols,['&#9851;'],['U+267B']
+name badge,symbols,symbols,['&#128219;'],['U+1F4DB']
+fleur-de-lis,symbols,symbols,['&#9884;'],['U+269C']
+japanese symbol for beginner,symbols,symbols,['&#128304;'],['U+1F530']
+trident emblem,symbols,symbols,['&#128305;'],['U+1F531']
+heavy large circle,symbols,symbols,['&#11093;'],['U+2B55']
+white heavy check mark,symbols,symbols,['&#9989;'],['U+2705']
+ballot box with check,symbols,symbols,['&#9745;'],['U+2611']
+heavy check mark,symbols,symbols,['&#10004;'],['U+2714']
+heavy multiplication x,symbols,symbols,['&#10006;'],['U+2716']
+cross mark,symbols,symbols,['&#10060;'],['U+274C']
+negative squared cross mark ≊ cross mark button,symbols,symbols,['&#10062;'],['U+274E']
+heavy plus sign,symbols,symbols,['&#10133;'],['U+2795']
+heavy minus sign,symbols,symbols,['&#10134;'],['U+2796']
+heavy division sign,symbols,symbols,['&#10135;'],['U+2797']
+curly loop,symbols,symbols,['&#10160;'],['U+27B0']
+double curly loop,symbols,symbols,['&#10175;'],['U+27BF']
+part alternation mark,symbols,symbols,['&#12349;'],['U+303D']
+eight spoked asterisk ≊ eight-spoked asterisk,symbols,symbols,['&#10035;'],['U+2733']
+eight pointed black star ≊ eight-pointed star,symbols,symbols,['&#10036;'],['U+2734']
+sparkle,symbols,symbols,['&#10055;'],['U+2747']
+double exclamation mark,symbols,symbols,['&#8252;'],['U+203C']
+exclamation question mark,symbols,symbols,['&#8265;'],['U+2049']
+black question mark ornament ≊ question mark,symbols,symbols,['&#10067;'],['U+2753']
+white question mark ornament ≊ white question mark,symbols,symbols,['&#10068;'],['U+2754']
+white exclamation mark ornament ≊ white exclamation mark,symbols,symbols,['&#10069;'],['U+2755']
+heavy exclamation mark symbol ≊ exclamation mark,symbols,symbols,['&#10071;'],['U+2757']
+wavy dash,symbols,symbols,['&#12336;'],['U+3030']
+copyright sign ≊ copyright,symbols,symbols,['&#169;'],['U+00A9']
+registered sign ≊ registered,symbols,symbols,['&#174;'],['U+00AE']
+trade mark sign ≊ trade mark,symbols,symbols,['&#8482;'],['U+2122']
+aries,symbols,symbols,['&#9800;'],['U+2648']
+taurus,symbols,symbols,['&#9801;'],['U+2649']
+gemini,symbols,symbols,['&#9802;'],['U+264A']
+cancer,symbols,symbols,['&#9803;'],['U+264B']
+leo,symbols,symbols,['&#9804;'],['U+264C']
+virgo,symbols,symbols,['&#9805;'],['U+264D']
+libra,symbols,symbols,['&#9806;'],['U+264E']
+scorpius,symbols,symbols,['&#9807;'],['U+264F']
+sagittarius,symbols,symbols,['&#9808;'],['U+2650']
+capricorn,symbols,symbols,['&#9809;'],['U+2651']
+aquarius,symbols,symbols,['&#9810;'],['U+2652']
+pisces,symbols,symbols,['&#9811;'],['U+2653']
+ophiuchus,symbols,symbols,['&#9934;'],['U+26CE']
+twisted rightwards arrows ≊ shuffle tracks button,symbols,symbols,['&#128256;'],['U+1F500']
+clockwise rightwards and leftwards open circle arrows ≊ repeat button,symbols,symbols,['&#128257;'],['U+1F501']
+clockwise rightwards and leftwards open circle arrows with circled one overlay ≊ repeat single button,symbols,symbols,['&#128258;'],['U+1F502']
+black right-pointing triangle ≊ play button,symbols,symbols,['&#9654;'],['U+25B6']
+black right-pointing double triangle ≊ fast-forword button,symbols,symbols,['&#9193;'],['U+23E9']
+black right-pointing double triangle with vertical bar ≊ next track button,symbols,symbols,['&#9197;'],['U+23ED']
+black right-pointing triangle with double vertical bar ≊ play or pause button,symbols,symbols,['&#9199;'],['U+23EF']
+black left-pointing triangle ≊ reverse button,symbols,symbols,['&#9664;'],['U+25C0']
+black left-pointing double triangle ≊ fast reverse button,symbols,symbols,['&#9194;'],['U+23EA']
+black left-pointing double triangle with vertical bar ≊ last track button,symbols,symbols,['&#9198;'],['U+23EE']
+up-pointing small red triangle ≊ up button,symbols,symbols,['&#128316;'],['U+1F53C']
+black up-pointing double triangle ≊ fast up button,symbols,symbols,['&#9195;'],['U+23EB']
+down-pointing small red triangle ≊ down button,symbols,symbols,['&#128317;'],['U+1F53D']
+black down-pointing double triangle ≊ fast down button,symbols,symbols,['&#9196;'],['U+23EC']
+double vertical bar ≊ pause button,symbols,symbols,['&#9208;'],['U+23F8']
+black square for stop ≊ stop button,symbols,symbols,['&#9209;'],['U+23F9']
+black circle for record ≊ record button,symbols,symbols,['&#9210;'],['U+23FA']
+eject symbol ≊ eject button,symbols,symbols,['&#9167;'],['U+23CF']
+cinema,symbols,symbols,['&#127910;'],['U+1F3A6']
+low brightness symbol ≊ dim button,symbols,symbols,['&#128261;'],['U+1F505']
+high brightness symbol ≊ bright button,symbols,symbols,['&#128262;'],['U+1F506']
+antenna with bars ≊ antenna bars,symbols,symbols,['&#128246;'],['U+1F4F6']
+vibration mode,symbols,symbols,['&#128243;'],['U+1F4F3']
+mobile phone off,symbols,symbols,['&#128244;'],['U+1F4F4']
+keycap #,symbols,symbols,"['&#35;', '&#65039;', '&#8419;']","['U+0023', 'U+FE0F', 'U+20E3']"
+keycap *,symbols,symbols,"['&#42;', '&#65039;', '&#8419;']","['U+002A', 'U+FE0F', 'U+20E3']"
+keycap 0,symbols,symbols,"['&#48;', '&#65039;', '&#8419;']","['U+0030', 'U+FE0F', 'U+20E3']"
+keycap 1,symbols,symbols,"['&#49;', '&#65039;', '&#8419;']","['U+0031', 'U+FE0F', 'U+20E3']"
+keycap 2,symbols,symbols,"['&#50;', '&#65039;', '&#8419;']","['U+0032', 'U+FE0F', 'U+20E3']"
+keycap 3,symbols,symbols,"['&#51;', '&#65039;', '&#8419;']","['U+0033', 'U+FE0F', 'U+20E3']"
+keycap 4,symbols,symbols,"['&#52;', '&#65039;', '&#8419;']","['U+0034', 'U+FE0F', 'U+20E3']"
+keycap 5,symbols,symbols,"['&#53;', '&#65039;', '&#8419;']","['U+0035', 'U+FE0F', 'U+20E3']"
+keycap 6,symbols,symbols,"['&#54;', '&#65039;', '&#8419;']","['U+0036', 'U+FE0F', 'U+20E3']"
+keycap 7,symbols,symbols,"['&#55;', '&#65039;', '&#8419;']","['U+0037', 'U+FE0F', 'U+20E3']"
+keycap 8,symbols,symbols,"['&#56;', '&#65039;', '&#8419;']","['U+0038', 'U+FE0F', 'U+20E3']"
+keycap 9,symbols,symbols,"['&#57;', '&#65039;', '&#8419;']","['U+0039', 'U+FE0F', 'U+20E3']"
+keycap ten ≊ keycap #,symbols,symbols,['&#128287;'],['U+1F51F']
+hundred points symbol ≊ hundred points,symbols,symbols,['&#128175;'],['U+1F4AF']
+input symbol for latin capital letters ≊ input latin uppercase,symbols,symbols,['&#128288;'],['U+1F520']
+input symbol for latin small letters ≊ input latin lowercase,symbols,symbols,['&#128289;'],['U+1F521']
+input symbol for numbers ≊ input numbers,symbols,symbols,['&#128290;'],['U+1F522']
+input symbol for symbols ≊ input symbols,symbols,symbols,['&#128291;'],['U+1F523']
+input symbol for latin letters ≊ input latin letters,symbols,symbols,['&#128292;'],['U+1F524']
+negative squared latin capital letter a ≊ a button,symbols,symbols,['&#127344;'],['U+1F170']
+negative squared ab ≊ ab button,symbols,symbols,['&#127374;'],['U+1F18E']
+negative squared latin capital letter b ≊ b button,symbols,symbols,['&#127345;'],['U+1F171']
+squared cl,symbols,symbols,['&#127377;'],['U+1F191']
+squared cool,symbols,symbols,['&#127378;'],['U+1F192']
+squared free,symbols,symbols,['&#127379;'],['U+1F193']
+information source,symbols,symbols,['&#8505;'],['U+2139']
+squared id,symbols,symbols,['&#127380;'],['U+1F194']
+circled latin capital letter m ≊ circled letter m,symbols,symbols,['&#9410;'],['U+24C2']
+squared new,symbols,symbols,['&#127381;'],['U+1F195']
+squared ng,symbols,symbols,['&#127382;'],['U+1F196']
+negative squared latin capital letter o ≊ o button,symbols,symbols,['&#127358;'],['U+1F17E']
+squared ok,symbols,symbols,['&#127383;'],['U+1F197']
+negative squared latin capital letter p ≊ p button,symbols,symbols,['&#127359;'],['U+1F17F']
+squared sos,symbols,symbols,['&#127384;'],['U+1F198']
+squared up with exclamation mark ≊ up! button,symbols,symbols,['&#127385;'],['U+1F199']
+squared vs,symbols,symbols,['&#127386;'],['U+1F19A']
+squared katakana koko,symbols,symbols,['&#127489;'],['U+1F201']
+squared katakana sa,symbols,symbols,['&#127490;'],['U+1F202']
+squared cjk unified ideograph-6708 ≊ squared moon ideograph,symbols,symbols,['&#127543;'],['U+1F237']
+squared cjk unified ideograph-6709 ≊ squared exist ideograph,symbols,symbols,['&#127542;'],['U+1F236']
+squared cjk unified ideograph-6307 ≊ squared finger ideograph,symbols,symbols,['&#127535;'],['U+1F22F']
+circled ideograph advantage ≊ circled advantage ideograph,symbols,symbols,['&#127568;'],['U+1F250']
+squared cjk unified ideograph-5272 ≊ squared divide ideograph,symbols,symbols,['&#127545;'],['U+1F239']
+squared cjk unified ideograph-7121 ≊ squared negation ideograph,symbols,symbols,['&#127514;'],['U+1F21A']
+squared cjk unified ideograph-7981 ≊ squared prohibit ideograph,symbols,symbols,['&#127538;'],['U+1F232']
+circled ideograph accept ≊ circled accept ideograph,symbols,symbols,['&#127569;'],['U+1F251']
+squared cjk unified ideograph-7533 ≊ squared apply ideograph,symbols,symbols,['&#127544;'],['U+1F238']
+squared cjk unified ideograph-5408 ≊ squared together ideograph,symbols,symbols,['&#127540;'],['U+1F234']
+squared cjk unified ideograph-7a7a ≊ squared empty ideograph,symbols,symbols,['&#127539;'],['U+1F233']
+circled ideograph congratulation ≊ circled congratulate ideograph,symbols,symbols,['&#12951;'],['U+3297']
+circled ideograph secret ≊ circled secret ideograph,symbols,symbols,['&#12953;'],['U+3299']
+squared cjk unified ideograph-55b6 ≊ squared operating ideograph,symbols,symbols,['&#127546;'],['U+1F23A']
+squared cjk unified ideograph-6e80 ≊ squared fullness ideograph,symbols,symbols,['&#127541;'],['U+1F235']
+black small square,symbols,symbols,['&#9642;'],['U+25AA']
+white small square,symbols,symbols,['&#9643;'],['U+25AB']
+white medium square,symbols,symbols,['&#9723;'],['U+25FB']
+black medium square,symbols,symbols,['&#9724;'],['U+25FC']
+white medium small square ≊ white medium-small square,symbols,symbols,['&#9725;'],['U+25FD']
+black medium small square ≊ black medium-small square,symbols,symbols,['&#9726;'],['U+25FE']
+black large square,symbols,symbols,['&#11035;'],['U+2B1B']
+white large square,symbols,symbols,['&#11036;'],['U+2B1C']
+large orange diamond,symbols,symbols,['&#128310;'],['U+1F536']
+large blue diamond,symbols,symbols,['&#128311;'],['U+1F537']
+small orange diamond,symbols,symbols,['&#128312;'],['U+1F538']
+small blue diamond,symbols,symbols,['&#128313;'],['U+1F539']
+up-pointing red triangle ≊ red triangle pointed up,symbols,symbols,['&#128314;'],['U+1F53A']
+down-pointing red triangle ≊ red triangle pointed down,symbols,symbols,['&#128315;'],['U+1F53B']
+diamond shape with a dot inside ≊ diamond with a dot,symbols,symbols,['&#128160;'],['U+1F4A0']
+radio button,symbols,symbols,['&#128280;'],['U+1F518']
+black square button,symbols,symbols,['&#128306;'],['U+1F532']
+white square button,symbols,symbols,['&#128307;'],['U+1F533']
+medium white circle ≊ white circle,symbols,symbols,['&#9898;'],['U+26AA']
+medium black circle ≊ black circle,symbols,symbols,['&#9899;'],['U+26AB']
+large red circle ≊ red circle,symbols,symbols,['&#128308;'],['U+1F534']
+large blue circle ≊ blue circle,symbols,symbols,['&#128309;'],['U+1F535']
+chequered flag,flags,flags,['&#127937;'],['U+1F3C1']
+triangular flag on post ≊ triangular flag,flags,flags,['&#128681;'],['U+1F6A9']
+crossed flags,flags,flags,['&#127884;'],['U+1F38C']
+waving black flag,flags,flags,['&#127988;'],['U+1F3F4']
+waving white flag,flags,flags,['&#127987;'],['U+1F3F3']
+ascension island,flags,flags,"['&#127462;', '&#127464;']","['U+1F1E6', 'U+1F1E8']"
+andorra,flags,flags,"['&#127462;', '&#127465;']","['U+1F1E6', 'U+1F1E9']"
+united arab emirates,flags,flags,"['&#127462;', '&#127466;']","['U+1F1E6', 'U+1F1EA']"
+afghanistan,flags,flags,"['&#127462;', '&#127467;']","['U+1F1E6', 'U+1F1EB']"
+antigua ,flags,flags,"['&#127462;', '&#127468;']","['U+1F1E6', 'U+1F1EC']"
+anguilla,flags,flags,"['&#127462;', '&#127470;']","['U+1F1E6', 'U+1F1EE']"
+albania,flags,flags,"['&#127462;', '&#127473;']","['U+1F1E6', 'U+1F1F1']"
+armenia,flags,flags,"['&#127462;', '&#127474;']","['U+1F1E6', 'U+1F1F2']"
+angola,flags,flags,"['&#127462;', '&#127476;']","['U+1F1E6', 'U+1F1F4']"
+antarctica,flags,flags,"['&#127462;', '&#127478;']","['U+1F1E6', 'U+1F1F6']"
+argentina,flags,flags,"['&#127462;', '&#127479;']","['U+1F1E6', 'U+1F1F7']"
+american samoa,flags,flags,"['&#127462;', '&#127480;']","['U+1F1E6', 'U+1F1F8']"
+austria,flags,flags,"['&#127462;', '&#127481;']","['U+1F1E6', 'U+1F1F9']"
+australia,flags,flags,"['&#127462;', '&#127482;']","['U+1F1E6', 'U+1F1FA']"
+aruba,flags,flags,"['&#127462;', '&#127484;']","['U+1F1E6', 'U+1F1FC']"
+ã…land islands,flags,flags,"['&#127462;', '&#127485;']","['U+1F1E6', 'U+1F1FD']"
+azerbaijan,flags,flags,"['&#127462;', '&#127487;']","['U+1F1E6', 'U+1F1FF']"
+bosnia ,flags,flags,"['&#127463;', '&#127462;']","['U+1F1E7', 'U+1F1E6']"
+barbados,flags,flags,"['&#127463;', '&#127463;']","['U+1F1E7', 'U+1F1E7']"
+bangladesh,flags,flags,"['&#127463;', '&#127465;']","['U+1F1E7', 'U+1F1E9']"
+belgium,flags,flags,"['&#127463;', '&#127466;']","['U+1F1E7', 'U+1F1EA']"
+burkina faso,flags,flags,"['&#127463;', '&#127467;']","['U+1F1E7', 'U+1F1EB']"
+bulgaria,flags,flags,"['&#127463;', '&#127468;']","['U+1F1E7', 'U+1F1EC']"
+bahrain,flags,flags,"['&#127463;', '&#127469;']","['U+1F1E7', 'U+1F1ED']"
+burundi,flags,flags,"['&#127463;', '&#127470;']","['U+1F1E7', 'U+1F1EE']"
+benin,flags,flags,"['&#127463;', '&#127471;']","['U+1F1E7', 'U+1F1EF']"
+st. barthã©lemy,flags,flags,"['&#127463;', '&#127473;']","['U+1F1E7', 'U+1F1F1']"
+bermuda,flags,flags,"['&#127463;', '&#127474;']","['U+1F1E7', 'U+1F1F2']"
+brunei,flags,flags,"['&#127463;', '&#127475;']","['U+1F1E7', 'U+1F1F3']"
+bolivia,flags,flags,"['&#127463;', '&#127476;']","['U+1F1E7', 'U+1F1F4']"
+caribbean netherlands,flags,flags,"['&#127463;', '&#127478;']","['U+1F1E7', 'U+1F1F6']"
+brazil,flags,flags,"['&#127463;', '&#127479;']","['U+1F1E7', 'U+1F1F7']"
+bahamas,flags,flags,"['&#127463;', '&#127480;']","['U+1F1E7', 'U+1F1F8']"
+bhutan,flags,flags,"['&#127463;', '&#127481;']","['U+1F1E7', 'U+1F1F9']"
+bouvet island,flags,flags,"['&#127463;', '&#127483;']","['U+1F1E7', 'U+1F1FB']"
+botswana,flags,flags,"['&#127463;', '&#127484;']","['U+1F1E7', 'U+1F1FC']"
+belarus,flags,flags,"['&#127463;', '&#127486;']","['U+1F1E7', 'U+1F1FE']"
+belize,flags,flags,"['&#127463;', '&#127487;']","['U+1F1E7', 'U+1F1FF']"
+canada,flags,flags,"['&#127464;', '&#127462;']","['U+1F1E8', 'U+1F1E6']"
+cocos (keeling) islands,flags,flags,"['&#127464;', '&#127464;']","['U+1F1E8', 'U+1F1E8']"
+congo - kinshasa,flags,flags,"['&#127464;', '&#127465;']","['U+1F1E8', 'U+1F1E9']"
+central african republic,flags,flags,"['&#127464;', '&#127467;']","['U+1F1E8', 'U+1F1EB']"
+congo - brazzaville,flags,flags,"['&#127464;', '&#127468;']","['U+1F1E8', 'U+1F1EC']"
+switzerland,flags,flags,"['&#127464;', '&#127469;']","['U+1F1E8', 'U+1F1ED']"
+cã´te dâ€™ivoire,flags,flags,"['&#127464;', '&#127470;']","['U+1F1E8', 'U+1F1EE']"
+cook islands,flags,flags,"['&#127464;', '&#127472;']","['U+1F1E8', 'U+1F1F0']"
+chile,flags,flags,"['&#127464;', '&#127473;']","['U+1F1E8', 'U+1F1F1']"
+cameroon,flags,flags,"['&#127464;', '&#127474;']","['U+1F1E8', 'U+1F1F2']"
+china,flags,flags,"['&#127464;', '&#127475;']","['U+1F1E8', 'U+1F1F3']"
+colombia,flags,flags,"['&#127464;', '&#127476;']","['U+1F1E8', 'U+1F1F4']"
+clipperton island,flags,flags,"['&#127464;', '&#127477;']","['U+1F1E8', 'U+1F1F5']"
+costa rica,flags,flags,"['&#127464;', '&#127479;']","['U+1F1E8', 'U+1F1F7']"
+cuba,flags,flags,"['&#127464;', '&#127482;']","['U+1F1E8', 'U+1F1FA']"
+cape verde,flags,flags,"['&#127464;', '&#127483;']","['U+1F1E8', 'U+1F1FB']"
+curaã§ao,flags,flags,"['&#127464;', '&#127484;']","['U+1F1E8', 'U+1F1FC']"
+christmas island,flags,flags,"['&#127464;', '&#127485;']","['U+1F1E8', 'U+1F1FD']"
+cyprus,flags,flags,"['&#127464;', '&#127486;']","['U+1F1E8', 'U+1F1FE']"
+czech republic,flags,flags,"['&#127464;', '&#127487;']","['U+1F1E8', 'U+1F1FF']"
+germany,flags,flags,"['&#127465;', '&#127466;']","['U+1F1E9', 'U+1F1EA']"
+diego garcia,flags,flags,"['&#127465;', '&#127468;']","['U+1F1E9', 'U+1F1EC']"
+djibouti,flags,flags,"['&#127465;', '&#127471;']","['U+1F1E9', 'U+1F1EF']"
+denmark,flags,flags,"['&#127465;', '&#127472;']","['U+1F1E9', 'U+1F1F0']"
+dominica,flags,flags,"['&#127465;', '&#127474;']","['U+1F1E9', 'U+1F1F2']"
+dominican republic,flags,flags,"['&#127465;', '&#127476;']","['U+1F1E9', 'U+1F1F4']"
+algeria,flags,flags,"['&#127465;', '&#127487;']","['U+1F1E9', 'U+1F1FF']"
+ceuta ,flags,flags,"['&#127466;', '&#127462;']","['U+1F1EA', 'U+1F1E6']"
+ecuador,flags,flags,"['&#127466;', '&#127464;']","['U+1F1EA', 'U+1F1E8']"
+estonia,flags,flags,"['&#127466;', '&#127466;']","['U+1F1EA', 'U+1F1EA']"
+egypt,flags,flags,"['&#127466;', '&#127468;']","['U+1F1EA', 'U+1F1EC']"
+western sahara,flags,flags,"['&#127466;', '&#127469;']","['U+1F1EA', 'U+1F1ED']"
+eritrea,flags,flags,"['&#127466;', '&#127479;']","['U+1F1EA', 'U+1F1F7']"
+spain,flags,flags,"['&#127466;', '&#127480;']","['U+1F1EA', 'U+1F1F8']"
+ethiopia,flags,flags,"['&#127466;', '&#127481;']","['U+1F1EA', 'U+1F1F9']"
+european union,flags,flags,"['&#127466;', '&#127482;']","['U+1F1EA', 'U+1F1FA']"
+finland,flags,flags,"['&#127467;', '&#127470;']","['U+1F1EB', 'U+1F1EE']"
+fiji,flags,flags,"['&#127467;', '&#127471;']","['U+1F1EB', 'U+1F1EF']"
+falkland islands,flags,flags,"['&#127467;', '&#127472;']","['U+1F1EB', 'U+1F1F0']"
+micronesia,flags,flags,"['&#127467;', '&#127474;']","['U+1F1EB', 'U+1F1F2']"
+faroe islands,flags,flags,"['&#127467;', '&#127476;']","['U+1F1EB', 'U+1F1F4']"
+france,flags,flags,"['&#127467;', '&#127479;']","['U+1F1EB', 'U+1F1F7']"
+gabon,flags,flags,"['&#127468;', '&#127462;']","['U+1F1EC', 'U+1F1E6']"
+united kingdom,flags,flags,"['&#127468;', '&#127463;']","['U+1F1EC', 'U+1F1E7']"
+grenada,flags,flags,"['&#127468;', '&#127465;']","['U+1F1EC', 'U+1F1E9']"
+georgia,flags,flags,"['&#127468;', '&#127466;']","['U+1F1EC', 'U+1F1EA']"
+french guiana,flags,flags,"['&#127468;', '&#127467;']","['U+1F1EC', 'U+1F1EB']"
+guernsey,flags,flags,"['&#127468;', '&#127468;']","['U+1F1EC', 'U+1F1EC']"
+ghana,flags,flags,"['&#127468;', '&#127469;']","['U+1F1EC', 'U+1F1ED']"
+gibraltar,flags,flags,"['&#127468;', '&#127470;']","['U+1F1EC', 'U+1F1EE']"
+greenland,flags,flags,"['&#127468;', '&#127473;']","['U+1F1EC', 'U+1F1F1']"
+gambia,flags,flags,"['&#127468;', '&#127474;']","['U+1F1EC', 'U+1F1F2']"
+guinea,flags,flags,"['&#127468;', '&#127475;']","['U+1F1EC', 'U+1F1F3']"
+guadeloupe,flags,flags,"['&#127468;', '&#127477;']","['U+1F1EC', 'U+1F1F5']"
+equatorial guinea,flags,flags,"['&#127468;', '&#127478;']","['U+1F1EC', 'U+1F1F6']"
+greece,flags,flags,"['&#127468;', '&#127479;']","['U+1F1EC', 'U+1F1F7']"
+south georgia ,flags,flags,"['&#127468;', '&#127480;']","['U+1F1EC', 'U+1F1F8']"
+guatemala,flags,flags,"['&#127468;', '&#127481;']","['U+1F1EC', 'U+1F1F9']"
+guam,flags,flags,"['&#127468;', '&#127482;']","['U+1F1EC', 'U+1F1FA']"
+guinea-bissau,flags,flags,"['&#127468;', '&#127484;']","['U+1F1EC', 'U+1F1FC']"
+guyana,flags,flags,"['&#127468;', '&#127486;']","['U+1F1EC', 'U+1F1FE']"
+hong kong sar china,flags,flags,"['&#127469;', '&#127472;']","['U+1F1ED', 'U+1F1F0']"
+heard ,flags,flags,"['&#127469;', '&#127474;']","['U+1F1ED', 'U+1F1F2']"
+honduras,flags,flags,"['&#127469;', '&#127475;']","['U+1F1ED', 'U+1F1F3']"
+croatia,flags,flags,"['&#127469;', '&#127479;']","['U+1F1ED', 'U+1F1F7']"
+haiti,flags,flags,"['&#127469;', '&#127481;']","['U+1F1ED', 'U+1F1F9']"
+hungary,flags,flags,"['&#127469;', '&#127482;']","['U+1F1ED', 'U+1F1FA']"
+canary islands,flags,flags,"['&#127470;', '&#127464;']","['U+1F1EE', 'U+1F1E8']"
+indonesia,flags,flags,"['&#127470;', '&#127465;']","['U+1F1EE', 'U+1F1E9']"
+ireland,flags,flags,"['&#127470;', '&#127466;']","['U+1F1EE', 'U+1F1EA']"
+israel,flags,flags,"['&#127470;', '&#127473;']","['U+1F1EE', 'U+1F1F1']"
+isle of man,flags,flags,"['&#127470;', '&#127474;']","['U+1F1EE', 'U+1F1F2']"
+india,flags,flags,"['&#127470;', '&#127475;']","['U+1F1EE', 'U+1F1F3']"
+british indian ocean territory,flags,flags,"['&#127470;', '&#127476;']","['U+1F1EE', 'U+1F1F4']"
+iraq,flags,flags,"['&#127470;', '&#127478;']","['U+1F1EE', 'U+1F1F6']"
+iran,flags,flags,"['&#127470;', '&#127479;']","['U+1F1EE', 'U+1F1F7']"
+iceland,flags,flags,"['&#127470;', '&#127480;']","['U+1F1EE', 'U+1F1F8']"
+italy,flags,flags,"['&#127470;', '&#127481;']","['U+1F1EE', 'U+1F1F9']"
+jersey,flags,flags,"['&#127471;', '&#127466;']","['U+1F1EF', 'U+1F1EA']"
+jamaica,flags,flags,"['&#127471;', '&#127474;']","['U+1F1EF', 'U+1F1F2']"
+jordan,flags,flags,"['&#127471;', '&#127476;']","['U+1F1EF', 'U+1F1F4']"
+japan,flags,flags,"['&#127471;', '&#127477;']","['U+1F1EF', 'U+1F1F5']"
+kenya,flags,flags,"['&#127472;', '&#127466;']","['U+1F1F0', 'U+1F1EA']"
+kyrgyzstan,flags,flags,"['&#127472;', '&#127468;']","['U+1F1F0', 'U+1F1EC']"
+cambodia,flags,flags,"['&#127472;', '&#127469;']","['U+1F1F0', 'U+1F1ED']"
+kiribati,flags,flags,"['&#127472;', '&#127470;']","['U+1F1F0', 'U+1F1EE']"
+comoros,flags,flags,"['&#127472;', '&#127474;']","['U+1F1F0', 'U+1F1F2']"
+st. kitts ,flags,flags,"['&#127472;', '&#127475;']","['U+1F1F0', 'U+1F1F3']"
+north korea,flags,flags,"['&#127472;', '&#127477;']","['U+1F1F0', 'U+1F1F5']"
+south korea,flags,flags,"['&#127472;', '&#127479;']","['U+1F1F0', 'U+1F1F7']"
+kuwait,flags,flags,"['&#127472;', '&#127484;']","['U+1F1F0', 'U+1F1FC']"
+cayman islands,flags,flags,"['&#127472;', '&#127486;']","['U+1F1F0', 'U+1F1FE']"
+kazakhstan,flags,flags,"['&#127472;', '&#127487;']","['U+1F1F0', 'U+1F1FF']"
+laos,flags,flags,"['&#127473;', '&#127462;']","['U+1F1F1', 'U+1F1E6']"
+lebanon,flags,flags,"['&#127473;', '&#127463;']","['U+1F1F1', 'U+1F1E7']"
+st. lucia,flags,flags,"['&#127473;', '&#127464;']","['U+1F1F1', 'U+1F1E8']"
+liechtenstein,flags,flags,"['&#127473;', '&#127470;']","['U+1F1F1', 'U+1F1EE']"
+sri lanka,flags,flags,"['&#127473;', '&#127472;']","['U+1F1F1', 'U+1F1F0']"
+liberia,flags,flags,"['&#127473;', '&#127479;']","['U+1F1F1', 'U+1F1F7']"
+lesotho,flags,flags,"['&#127473;', '&#127480;']","['U+1F1F1', 'U+1F1F8']"
+lithuania,flags,flags,"['&#127473;', '&#127481;']","['U+1F1F1', 'U+1F1F9']"
+luxembourg,flags,flags,"['&#127473;', '&#127482;']","['U+1F1F1', 'U+1F1FA']"
+latvia,flags,flags,"['&#127473;', '&#127483;']","['U+1F1F1', 'U+1F1FB']"
+libya,flags,flags,"['&#127473;', '&#127486;']","['U+1F1F1', 'U+1F1FE']"
+morocco,flags,flags,"['&#127474;', '&#127462;']","['U+1F1F2', 'U+1F1E6']"
+monaco,flags,flags,"['&#127474;', '&#127464;']","['U+1F1F2', 'U+1F1E8']"
+moldova,flags,flags,"['&#127474;', '&#127465;']","['U+1F1F2', 'U+1F1E9']"
+montenegro,flags,flags,"['&#127474;', '&#127466;']","['U+1F1F2', 'U+1F1EA']"
+st. martin,flags,flags,"['&#127474;', '&#127467;']","['U+1F1F2', 'U+1F1EB']"
+madagascar,flags,flags,"['&#127474;', '&#127468;']","['U+1F1F2', 'U+1F1EC']"
+marshall islands,flags,flags,"['&#127474;', '&#127469;']","['U+1F1F2', 'U+1F1ED']"
+macedonia,flags,flags,"['&#127474;', '&#127472;']","['U+1F1F2', 'U+1F1F0']"
+mali,flags,flags,"['&#127474;', '&#127473;']","['U+1F1F2', 'U+1F1F1']"
+myanmar (burma),flags,flags,"['&#127474;', '&#127474;']","['U+1F1F2', 'U+1F1F2']"
+mongolia,flags,flags,"['&#127474;', '&#127475;']","['U+1F1F2', 'U+1F1F3']"
+macau sar china,flags,flags,"['&#127474;', '&#127476;']","['U+1F1F2', 'U+1F1F4']"
+northern mariana islands,flags,flags,"['&#127474;', '&#127477;']","['U+1F1F2', 'U+1F1F5']"
+martinique,flags,flags,"['&#127474;', '&#127478;']","['U+1F1F2', 'U+1F1F6']"
+mauritania,flags,flags,"['&#127474;', '&#127479;']","['U+1F1F2', 'U+1F1F7']"
+montserrat,flags,flags,"['&#127474;', '&#127480;']","['U+1F1F2', 'U+1F1F8']"
+malta,flags,flags,"['&#127474;', '&#127481;']","['U+1F1F2', 'U+1F1F9']"
+mauritius,flags,flags,"['&#127474;', '&#127482;']","['U+1F1F2', 'U+1F1FA']"
+maldives,flags,flags,"['&#127474;', '&#127483;']","['U+1F1F2', 'U+1F1FB']"
+malawi,flags,flags,"['&#127474;', '&#127484;']","['U+1F1F2', 'U+1F1FC']"
+mexico,flags,flags,"['&#127474;', '&#127485;']","['U+1F1F2', 'U+1F1FD']"
+malaysia,flags,flags,"['&#127474;', '&#127486;']","['U+1F1F2', 'U+1F1FE']"
+mozambique,flags,flags,"['&#127474;', '&#127487;']","['U+1F1F2', 'U+1F1FF']"
+namibia,flags,flags,"['&#127475;', '&#127462;']","['U+1F1F3', 'U+1F1E6']"
+new caledonia,flags,flags,"['&#127475;', '&#127464;']","['U+1F1F3', 'U+1F1E8']"
+niger,flags,flags,"['&#127475;', '&#127466;']","['U+1F1F3', 'U+1F1EA']"
+norfolk island,flags,flags,"['&#127475;', '&#127467;']","['U+1F1F3', 'U+1F1EB']"
+nigeria,flags,flags,"['&#127475;', '&#127468;']","['U+1F1F3', 'U+1F1EC']"
+nicaragua,flags,flags,"['&#127475;', '&#127470;']","['U+1F1F3', 'U+1F1EE']"
+netherlands,flags,flags,"['&#127475;', '&#127473;']","['U+1F1F3', 'U+1F1F1']"
+norway,flags,flags,"['&#127475;', '&#127476;']","['U+1F1F3', 'U+1F1F4']"
+nepal,flags,flags,"['&#127475;', '&#127477;']","['U+1F1F3', 'U+1F1F5']"
+nauru,flags,flags,"['&#127475;', '&#127479;']","['U+1F1F3', 'U+1F1F7']"
+niue,flags,flags,"['&#127475;', '&#127482;']","['U+1F1F3', 'U+1F1FA']"
+new zealand,flags,flags,"['&#127475;', '&#127487;']","['U+1F1F3', 'U+1F1FF']"
+oman,flags,flags,"['&#127476;', '&#127474;']","['U+1F1F4', 'U+1F1F2']"
+panama,flags,flags,"['&#127477;', '&#127462;']","['U+1F1F5', 'U+1F1E6']"
+peru,flags,flags,"['&#127477;', '&#127466;']","['U+1F1F5', 'U+1F1EA']"
+french polynesia,flags,flags,"['&#127477;', '&#127467;']","['U+1F1F5', 'U+1F1EB']"
+papua new guinea,flags,flags,"['&#127477;', '&#127468;']","['U+1F1F5', 'U+1F1EC']"
+philippines,flags,flags,"['&#127477;', '&#127469;']","['U+1F1F5', 'U+1F1ED']"
+pakistan,flags,flags,"['&#127477;', '&#127472;']","['U+1F1F5', 'U+1F1F0']"
+poland,flags,flags,"['&#127477;', '&#127473;']","['U+1F1F5', 'U+1F1F1']"
+st. pierre ,flags,flags,"['&#127477;', '&#127474;']","['U+1F1F5', 'U+1F1F2']"
+pitcairn islands,flags,flags,"['&#127477;', '&#127475;']","['U+1F1F5', 'U+1F1F3']"
+puerto rico,flags,flags,"['&#127477;', '&#127479;']","['U+1F1F5', 'U+1F1F7']"
+palestinian territories,flags,flags,"['&#127477;', '&#127480;']","['U+1F1F5', 'U+1F1F8']"
+portugal,flags,flags,"['&#127477;', '&#127481;']","['U+1F1F5', 'U+1F1F9']"
+palau,flags,flags,"['&#127477;', '&#127484;']","['U+1F1F5', 'U+1F1FC']"
+paraguay,flags,flags,"['&#127477;', '&#127486;']","['U+1F1F5', 'U+1F1FE']"
+qatar,flags,flags,"['&#127478;', '&#127462;']","['U+1F1F6', 'U+1F1E6']"
+rã©union,flags,flags,"['&#127479;', '&#127466;']","['U+1F1F7', 'U+1F1EA']"
+romania,flags,flags,"['&#127479;', '&#127476;']","['U+1F1F7', 'U+1F1F4']"
+serbia,flags,flags,"['&#127479;', '&#127480;']","['U+1F1F7', 'U+1F1F8']"
+russia,flags,flags,"['&#127479;', '&#127482;']","['U+1F1F7', 'U+1F1FA']"
+rwanda,flags,flags,"['&#127479;', '&#127484;']","['U+1F1F7', 'U+1F1FC']"
+saudi arabia,flags,flags,"['&#127480;', '&#127462;']","['U+1F1F8', 'U+1F1E6']"
+solomon islands,flags,flags,"['&#127480;', '&#127463;']","['U+1F1F8', 'U+1F1E7']"
+seychelles,flags,flags,"['&#127480;', '&#127464;']","['U+1F1F8', 'U+1F1E8']"
+sudan,flags,flags,"['&#127480;', '&#127465;']","['U+1F1F8', 'U+1F1E9']"
+sweden,flags,flags,"['&#127480;', '&#127466;']","['U+1F1F8', 'U+1F1EA']"
+singapore,flags,flags,"['&#127480;', '&#127468;']","['U+1F1F8', 'U+1F1EC']"
+st. helena,flags,flags,"['&#127480;', '&#127469;']","['U+1F1F8', 'U+1F1ED']"
+slovenia,flags,flags,"['&#127480;', '&#127470;']","['U+1F1F8', 'U+1F1EE']"
+svalbard ,flags,flags,"['&#127480;', '&#127471;']","['U+1F1F8', 'U+1F1EF']"
+slovakia,flags,flags,"['&#127480;', '&#127472;']","['U+1F1F8', 'U+1F1F0']"
+sierra leone,flags,flags,"['&#127480;', '&#127473;']","['U+1F1F8', 'U+1F1F1']"
+san marino,flags,flags,"['&#127480;', '&#127474;']","['U+1F1F8', 'U+1F1F2']"
+senegal,flags,flags,"['&#127480;', '&#127475;']","['U+1F1F8', 'U+1F1F3']"
+somalia,flags,flags,"['&#127480;', '&#127476;']","['U+1F1F8', 'U+1F1F4']"
+suriname,flags,flags,"['&#127480;', '&#127479;']","['U+1F1F8', 'U+1F1F7']"
+south sudan,flags,flags,"['&#127480;', '&#127480;']","['U+1F1F8', 'U+1F1F8']"
+sã£o tomã© ,flags,flags,"['&#127480;', '&#127481;']","['U+1F1F8', 'U+1F1F9']"
+el salvador,flags,flags,"['&#127480;', '&#127483;']","['U+1F1F8', 'U+1F1FB']"
+sint maarten,flags,flags,"['&#127480;', '&#127485;']","['U+1F1F8', 'U+1F1FD']"
+syria,flags,flags,"['&#127480;', '&#127486;']","['U+1F1F8', 'U+1F1FE']"
+swaziland,flags,flags,"['&#127480;', '&#127487;']","['U+1F1F8', 'U+1F1FF']"
+tristan da cunha,flags,flags,"['&#127481;', '&#127462;']","['U+1F1F9', 'U+1F1E6']"
+turks ,flags,flags,"['&#127481;', '&#127464;']","['U+1F1F9', 'U+1F1E8']"
+chad,flags,flags,"['&#127481;', '&#127465;']","['U+1F1F9', 'U+1F1E9']"
+french southern territories,flags,flags,"['&#127481;', '&#127467;']","['U+1F1F9', 'U+1F1EB']"
+togo,flags,flags,"['&#127481;', '&#127468;']","['U+1F1F9', 'U+1F1EC']"
+thailand,flags,flags,"['&#127481;', '&#127469;']","['U+1F1F9', 'U+1F1ED']"
+tajikistan,flags,flags,"['&#127481;', '&#127471;']","['U+1F1F9', 'U+1F1EF']"
+tokelau,flags,flags,"['&#127481;', '&#127472;']","['U+1F1F9', 'U+1F1F0']"
+timor-leste,flags,flags,"['&#127481;', '&#127473;']","['U+1F1F9', 'U+1F1F1']"
+turkmenistan,flags,flags,"['&#127481;', '&#127474;']","['U+1F1F9', 'U+1F1F2']"
+tunisia,flags,flags,"['&#127481;', '&#127475;']","['U+1F1F9', 'U+1F1F3']"
+tonga,flags,flags,"['&#127481;', '&#127476;']","['U+1F1F9', 'U+1F1F4']"
+turkey,flags,flags,"['&#127481;', '&#127479;']","['U+1F1F9', 'U+1F1F7']"
+trinidad ,flags,flags,"['&#127481;', '&#127481;']","['U+1F1F9', 'U+1F1F9']"
+tuvalu,flags,flags,"['&#127481;', '&#127483;']","['U+1F1F9', 'U+1F1FB']"
+taiwan,flags,flags,"['&#127481;', '&#127484;']","['U+1F1F9', 'U+1F1FC']"
+tanzania,flags,flags,"['&#127481;', '&#127487;']","['U+1F1F9', 'U+1F1FF']"
+ukraine,flags,flags,"['&#127482;', '&#127462;']","['U+1F1FA', 'U+1F1E6']"
+uganda,flags,flags,"['&#127482;', '&#127468;']","['U+1F1FA', 'U+1F1EC']"
+u.s. outlying islands,flags,flags,"['&#127482;', '&#127474;']","['U+1F1FA', 'U+1F1F2']"
+united states,flags,flags,"['&#127482;', '&#127480;']","['U+1F1FA', 'U+1F1F8']"
+uruguay,flags,flags,"['&#127482;', '&#127486;']","['U+1F1FA', 'U+1F1FE']"
+uzbekistan,flags,flags,"['&#127482;', '&#127487;']","['U+1F1FA', 'U+1F1FF']"
+vatican city,flags,flags,"['&#127483;', '&#127462;']","['U+1F1FB', 'U+1F1E6']"
+st. vincent ,flags,flags,"['&#127483;', '&#127464;']","['U+1F1FB', 'U+1F1E8']"
+venezuela,flags,flags,"['&#127483;', '&#127466;']","['U+1F1FB', 'U+1F1EA']"
+british virgin islands,flags,flags,"['&#127483;', '&#127468;']","['U+1F1FB', 'U+1F1EC']"
+u.s. virgin islands,flags,flags,"['&#127483;', '&#127470;']","['U+1F1FB', 'U+1F1EE']"
+vietnam,flags,flags,"['&#127483;', '&#127475;']","['U+1F1FB', 'U+1F1F3']"
+vanuatu,flags,flags,"['&#127483;', '&#127482;']","['U+1F1FB', 'U+1F1FA']"
+wallis ,flags,flags,"['&#127484;', '&#127467;']","['U+1F1FC', 'U+1F1EB']"
+samoa,flags,flags,"['&#127484;', '&#127480;']","['U+1F1FC', 'U+1F1F8']"
+kosovo,flags,flags,"['&#127485;', '&#127472;']","['U+1F1FD', 'U+1F1F0']"
+yemen,flags,flags,"['&#127486;', '&#127466;']","['U+1F1FE', 'U+1F1EA']"
+mayotte,flags,flags,"['&#127486;', '&#127481;']","['U+1F1FE', 'U+1F1F9']"
+south africa,flags,flags,"['&#127487;', '&#127462;']","['U+1F1FF', 'U+1F1E6']"
+zambia,flags,flags,"['&#127487;', '&#127474;']","['U+1F1FF', 'U+1F1F2']"
+zimbabwe,flags,flags,"['&#127487;', '&#127484;']","['U+1F1FF', 'U+1F1FC']"
